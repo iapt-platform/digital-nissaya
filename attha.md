@@ -1,4 +1,10 @@
 # Aṭṭhakatha Nissaya & Bhāsāṭīkā
+ 
+channel id:
+
+nissaya :a73e1d78-9666-4cb2-b909-f235aa3362e5
+
+Bhāsāṭīkā:136fcd1a-3ef1-432c-8cfa-51eec1b68211
 
 |title|attha-book|attha-my-page|nissaya book|nissaya page|type|nissaya title|page count|status|
 |-|-|-|-|-|-|-|-|-|
@@ -85,7 +91,7 @@ attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|1|**098**|2|dana’atiုင
 attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|39|**099**|1|dana’atiုငa|jātaka (6)|128
 attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|85|**100**|1|dana’atiုငa|jātaka (6)|95
 attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|119|**101**|1|dana’atiုငa|jātaka (6)|124
-attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|163|**102**|1|dana’atiုငa|jātaka (6)|184
+attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|163|**102**|1|dana’atiုငa|jātaka (6)|184|in paper|
 attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|223|**103**|1|dana’atiုငa|jātaka (6)|170
 attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|275|**104**|1|dana’atiုငa|jātaka (6)|175
 attha_ku_zat_07|jātakaaṭṭhakathā(sattama)|1|**105**|1|dana’atiုငa|jātaka (7)|186
