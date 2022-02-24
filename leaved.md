@@ -1,5 +1,6 @@
 # leaved
 
+1. ခုဒ္ဒသိက္ခာ ဘာသာဋီကာ
 1. မဟာနိဒ္ဒေသ-အဋ္ဌကထာ **နိဿယ**
 1. စူဠနိဒ္ဒေသ-အဋ္ဌကထာ **နိဿယ**
 1. ဇာတက-အဋ္ဌကထာ **နိဿယ**(4. စတုက္ကနိပါတော)
@@ -12,22 +13,21 @@
 1. ဇာတက-အဋ္ဌကထာ **နိဿယ**( 11. ဧကာဒသကနိပါတော)
 1. ဇာတက-အဋ္ဌကထာ **နိဿယ**( 12. ဒွါဒသကနိပါတော)
 1. ဇာတက-အဋ္ဌကထာ **နိဿယ**( 13. တေရသကနိပါတော)
-1. ဇာတက-အဋ္ဌကထာ **နိဿယ**( 22. မဟာနိပါတော/[542] 5. ဥမင်္ဂဇာတကဝဏ္ဏနာ-2-ပဉ္စပဏ္ဍိတပဉှော)
-1. ဇာတက-အဋ္ဌကထာ **နိဿယ**( 22. မဟာနိပါတော/[542] 5. ဥမင်္ဂဇာတကဝဏ္ဏနာ-3)
+
 
 Engligh Letter
 
-1. Mahāniddesa-Aṭṭhakathā **Nissaya**
-1. Cūḷaniddesa-Aṭṭhakathā **Nissaya**
-1. Jātaka-Aṭṭhakathā **Nissaya**(4. Catukkanipāto)
-1. Jātaka-Aṭṭhakathā **Nissaya**( 5. Pañcakanipāto)
-1. Jātaka-Aṭṭhakathā **Nissaya**( 6. Chakkanipāto)
-1. Jātaka-Aṭṭhakathā **Nissaya**( 7. Sattakanipāto)
-1. Jātaka-Aṭṭhakathā **Nissaya**( 8. Aṭṭhakanipāto)
-1. Jātaka-Aṭṭhakathā **Nissaya**( 9. Navakanipāto)
-1. Jātaka-Aṭṭhakathā **Nissaya**( 10. Dasakanipāto)
-1. Jātaka-Aṭṭhakathā **Nissaya**( 11. Ekādasakanipāto)
-1. Jātaka-Aṭṭhakathā **Nissaya**( 12. Dvādasakanipāto)
-1. Jātaka-Aṭṭhakathā **Nissaya**( 13. Terasakanipāto)
-1. Jātaka-Aṭṭhakathā **Nissaya**( 22. Mahānipāto/[542] 5. UmaṅgaJātakavaṇṇanā-2-Pañcapaṇḍitapañho)
-1. Jātaka-Aṭṭhakathā **Nissaya**( 22. Mahānipāto/[542] 5. UmaṅgaJātakavaṇṇanā-3)
+1. Khuddasikkhā Bhāsāṭīkā
+2. Mahāniddesa-Aṭṭhakathā **Nissaya**
+3. Cūḷaniddesa-Aṭṭhakathā **Nissaya**
+4. Jātaka-Aṭṭhakathā **Nissaya**(4. Catukkanipāto)
+5. Jātaka-Aṭṭhakathā **Nissaya**( 5. Pañcakanipāto)
+6. Jātaka-Aṭṭhakathā **Nissaya**( 6. Chakkanipāto)
+7. Jātaka-Aṭṭhakathā **Nissaya**( 7. Sattakanipāto)
+8. Jātaka-Aṭṭhakathā **Nissaya**( 8. Aṭṭhakanipāto)
+9. Jātaka-Aṭṭhakathā **Nissaya**( 9. Navakanipāto)
+10. Jātaka-Aṭṭhakathā **Nissaya**( 10. Dasakanipāto)
+11. Jātaka-Aṭṭhakathā **Nissaya**( 11. Ekādasakanipāto)
+12. Jātaka-Aṭṭhakathā **Nissaya**( 12. Dvādasakanipāto)
+13. Jātaka-Aṭṭhakathā **Nissaya**( 13. Terasakanipāto)
+
