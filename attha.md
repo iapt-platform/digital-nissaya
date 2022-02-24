@@ -87,19 +87,19 @@ attha_ku_08_01|theragāthā aṭṭhakathā(pa)|216|**094**|1|miု”thi (du)|t
 attha_ku_08_02|theragāthā aṭṭhakathā(du)|1|**095**|1|miု”thi (ta)|theragāthā (du)|583
 attha_ku_08_02|theragāthā aṭṭhakathā(du)|264|**096**|1|miု”thi (ca)|theragāthā (du)|647
 attha_ku_13|cariyāpiṭaka aṭṭhakathā|1|**097**|1|rhe”charātoa|cariyāpiṭaka|492
-attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|1|**098**|2|dana’atiုငa|jātaka (6)|112
-attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|39|**099**|1|dana’atiုငa|jātaka (6)|128
-attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|85|**100**|1|dana’atiုငa|jātaka (6)|95
-attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|119|**101**|1|dana’atiုငa|jātaka (6)|124
-attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|163|**102**|1|dana’atiုငa|jātaka (6)|184|in paper|
-attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|223|**103**|1|dana’atiုငa|jātaka (6)|170
-attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|275|**104**|1|dana’atiုငa|jātaka (6)|175
-attha_ku_zat_07|jātakaaṭṭhakathā(sattama)|1|**105**|1|dana’atiုငa|jātaka (7)|186
-attha_ku_zat_07|jātakaaṭṭhakathā(sattama)|71|**106**|1|dana’atiုငa|jātaka (7)|102
-attha_ku_zat_07|jātakaaṭṭhakathā(sattama)|105|**107**|1|dana’atiုငa|jātaka (7)|136
-attha_ku_zat_07|jātakaaṭṭhakathā(sattama)|151|**108**|1|dana’atiုငa|jātaka (7)|237
-attha_ku_zat_07|jātakaaṭṭhakathā(sattama)|241|**109**|1|dana’atiုငa|jātaka (7)|214
-attha_ku_zat_07|jātakaaṭṭhakathā(sattama)|319|**110**|1|dana’atiုငa|jātaka (7)|188
+attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|1|**098**|2|dana’atiုငa|jātaka (6)22. Mahānipāto[538] 1. Mūgapakkhajātakavaṇṇanā|112|[blocking]|
+attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|39|**099**|1|dana’atiုငa|jātaka (6)[539] 2. Mahājanakajātakavaṇṇanā|128|[blocking]|
+attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|85|**100**|1|dana’atiုငa|jātaka (6)[540] 3. Suvaṇṇasāmajātakavaṇṇanā|95|[blocking]|
+attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|119|**101**|1|dana’atiုငa|jātaka (6)[541] 4. Nimijātakavaṇṇanā|124|[blocking]|
+attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|163|**102**|1|dana’atiုငa|jātaka (6)[542] 5. Umaṅgajātakavaṇṇanā-1|184|in paper|
+attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|223|**103**|1|dana’atiုငa|jātaka (6)[542] 5. Umaṅgajātakavaṇṇanā-2|170|[blocking]|
+attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|275|**104**|1|dana’atiုငa|jātaka (6)[542] 5. Umaṅgajātakavaṇṇanā-3|175|[blocking]|
+attha_ku_zat_07|jātakaaṭṭhakathā(sattama)|1|**105**|1|dana’atiုငa|jātaka (7)22. Mahānipāto[543]6. Bhūridattajātakavaṇṇanā|186|[blocking]|
+attha_ku_zat_07|jātakaaṭṭhakathā(sattama)|71|**106**|1|dana’atiုငa|jātaka (7)22. Mahānipāto[544]7. Candakumārajātakavaṇṇanā|102|[blocking]|
+attha_ku_zat_07|jātakaaṭṭhakathā(sattama)|105|**107**|1|dana’atiုငa|jātaka (7)[545] 8. Mahānāradakassapajātakavaṇṇanā|136|[blocking]|
+attha_ku_zat_07|jātakaaṭṭhakathā(sattama)|151|**108**|1|dana’atiုငa|jātaka (7)[546] 9. Vidhurajātakavaṇṇanā|237|[blocking]|
+attha_ku_zat_07|jātakaaṭṭhakathā(sattama)|241|**109**|1|dana’atiုငa|jātaka (7)[547] 10. Vessantarajātakavaṇṇanā-1|214|[blocking]|
+attha_ku_zat_07|jātakaaṭṭhakathā(sattama)|319|**110**|1|dana’atiုငa|jātaka (7)[547] 10. Vessantarajātakavaṇṇanā-2|188|[blocking]|
 attha_ku_18_01|paṭisambhidāmagga aṭṭhakathā (pa)|1|**111**|1|sāsanāre” (pa)|paṭisambhidāmaga|755
 attha_ku_18_02|paṭisambhidāmagga aṭṭhakathā (du)|1|**112**|1|sāsanāre” (du)|paṭisambhidāmaga du|621
 attha_ku_20|nettippakaraṇa aṭṭhakathā|1|**113**|23|khyoငa”koka (pa)|netti|483

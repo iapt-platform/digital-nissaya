@@ -2,24 +2,24 @@
 |-|-|-|-|-|-|-|-|-|-|
 mula_vi_01|pārājikakaṇḍapāḷi ( vi-1 )|1|10101|1|bhurā”kaြီ”mū|vi 1|396
 mula_vi_01|pārājikakaṇḍapāḷi ( vi-1 )|1|10102|1|pakhukkūmū|vi 1|704
-mula_vi_01|pārājikakaṇḍapāḷi ( vi-1 )|1|10103|1|bhāsāṭīkā|vi 1|325
+mula_vi_01|pārājikakaṇḍapāḷi ( vi-1 )|1|10103|1|**bhāsāṭīkā**|vi 1|325
 mula_vi_02|pācittiyapāḷi (vi-2)|1|10201|1|bhurā”kaြီ”mū|vi 2|352
-mula_vi_02|pācittiyapāḷi (vi-2)|1|10202|1|bhāsāṭīkā|vi 2|267
+mula_vi_02|pācittiyapāḷi (vi-2)|1|10202|1|**bhāsāṭīkā**|vi 2|267
 mula_vi_03|mahāvaggapāḷi (vi-3)|1|10301|1|veyaṃbhuṃsāmū (pa)|vi 3|294
 mula_vi_03|mahāvaggapāḷi (vi-3)|220|10302|1|veyaṃbhuṃsāmū (du)|vi 3|297
-mula_vi_03|mahāvaggapāḷi (vi-3)|1|10303|1|bhāsāṭīkā|vi 3|503
+mula_vi_03|mahāvaggapāḷi (vi-3)|1|10303|1|**bhāsāṭīkā**|vi 3|503
 mula_vi_04|cūḷavaggapāḷi(vi-4)|1|10401|1|caṅkyoငa”mū (pa)|vi 4|368
 mula_vi_04|cūḷavaggapāḷi(vi-4)|336|10402|1|caṅkyoငa”mū (du)|vi 4|289
-mula_vi_04|cūḷavaggapāḷi(vi-4)|1|10403|1|bhāsāṭīkā|vi 4|293
+mula_vi_04|cūḷavaggapāḷi(vi-4)|1|10403|1|**bhāsāṭīkā**|vi 4|293
 mula_vi_05|parivāḷapāḷi (vi-5)|1|10501|1|sacachima’amū|vi 5|456
-mula_vi_05|parivāḷapāḷi (vi-5)|1|10502|1|bhāsāṭīkā|vi 5|181
+mula_vi_05|parivāḷapāḷi (vi-5)|1|10502|1|**bhāsāṭīkā**|vi 5|181
 mula_di_01|sīlakkhandhavaggapāḷi (dī-1)|1|20101|1|neraငa”mū|dī 1|494
 mula_di_01|sīlakkhandhavaggapāḷi (dī-1)|1|20102|1|pakhukkūmū|dī 1|670
-mula_di_01|sīlakkhandhavaggapāḷi (dī-1)|1|20103|1|bhāsāṭīkā|dī 1|400
+mula_di_01|sīlakkhandhavaggapāḷi (dī-1)|1|20103|1|**bhāsāṭīkā**|dī 1|400
 mula_di_02|mahāvaggapāḷi (dī-2)|1|20201|1|neraငa”mū (pa)|dī 2|320
 mula_di_02|mahāvaggapāḷi (dī-2)|162|20202|1|neraငa”mū (du)|dī 2|281
 mula_di_02|mahāvaggapāḷi (dī-2)|1|20203|1|pakhukkūmū|dī 2|805
-mula_di_02|mahāvaggapāḷi (dī-2)|1|20204|1|bhāsāṭīkā|dī 2|519
+mula_di_02|mahāvaggapāḷi (dī-2)|1|20204|1|**bhāsāṭīkā**|dī 2|519
 mula_di_03|pāthikavaggapāḷi (dī-3)|1|20301|1|pakhukkūmū|dī 3|720
 mula_di_03|pāthikavaggapāḷi (dī-3)|1|20302|1|neraငa”mū|dī 3|358
 mula_ma_01|mūlapaṇṇāsapāḷi (ma-1)|1|30101|1|sāsanāre”mū|ma 1|359
@@ -68,16 +68,16 @@ mula_ku_19|milindapañhapāḷi (khu-10)|1|60023|1|miု”thi (pa)|milinda|605
 mula_ku_19|milindapañhapāḷi (khu-10)|208|60024|1|miု”thi (du)|milinda|464
 mula_ku_20|nettipakaraṇapāḷi (khu-11)|1|60025|1|miု”thimū|netti|449
 mula_ku_21|peṭakopadesapāḷi (khu-11)|167|60026|1|miု”thimū|peṭako|420
-mula_bi_01|dhammasaṅgaṇīpāḷi (abhi-1)|1|70101|1|thanoငa”vana”mū|ṇī|504
-mula_bi_01|dhammasaṅgaṇīpāḷi (abhi-1)|1|70102|0|bhāsāṭīkā|ṇī|97
-mula_bi_02|vibhaṅgapāḷi (abhi-2)|1|70201|1|rājagurumū|vibhaငa”|438
-mula_bi_02|vibhaṅgapāḷi (abhi-2)|1|70202|1|bhāsāṭīkā|vibhaငa”|141
-mula_bi_03|dhātukathāpāḷi (abhi-3)|1|70301|1|bhuṅkyoamū|dhātukathā|394
-mula_bi_04|puggalapaññattipāḷi (abhi-3)|101|70301|194|bhuṅkyoamū|dhātukathā|394
-mula_bi_03|dhātukathāpāḷi (abhi-3)|1|70302|1|bhāsāṭīkā|dhātukathā|90
-mula_bi_04|puggalapaññattipāḷi (abhi-3)|101|70302|29|bhāsāṭīkā|dhātukathā|90
-mula_bi_05|kathāvatthupāḷi (abhi-4)|1|70501|1|rājagurumū|kathāvaththu|553
-mula_bi_05|kathāvatthupāḷi (abhi-4)|1|70502|1|bhāsāṭīkā|kathāvaththu|317
+mula_bi_01|dhammasaṅgaṇīpāḷi (abhi-1)|1|70101|1|thanoငa”vana”mū|ṇī|504|[blocking]|
+mula_bi_01|dhammasaṅgaṇīpāḷi (abhi-1)|1|70102|0|**bhāsāṭīkā**|ṇī|97
+mula_bi_02|vibhaṅgapāḷi (abhi-2)|1|70201|1|rājagurumū|vibhaငa”|438|[blocking]|
+mula_bi_02|vibhaṅgapāḷi (abhi-2)|1|70202|1|**bhāsāṭīkā**|vibhaငa”|141
+mula_bi_03|dhātukathāpāḷi (abhi-3)|1|70301|1|bhuṅkyoamū|dhātukathā|394|[blocking]|
+mula_bi_03|dhātukathāpāḷi (abhi-3)|1|70302|1|**bhāsāṭīkā**|dhātukathā|90
+mula_bi_04|puggalapaññattipāḷi (abhi-3)|101|70301|194|bhuṅkyoamū|dhātukathā|394|[blocking]|
+mula_bi_04|puggalapaññattipāḷi (abhi-3)|101|70302|29|**bhāsāṭīkā**|dhātukathā|90
+mula_bi_05|kathāvatthupāḷi (abhi-4)|1|70501|1|rājagurumū|kathāvaththu|553|[blocking]|
+mula_bi_05|kathāvatthupāḷi (abhi-4)|1|70502|1|**bhāsāṭīkā**|kathāvaththu|317
 mula_bi_06_01|yamakapāḷi - pa (yamaka-1)|1|70601|0|arhaငanandamedhāmū (pa)|yamaka - 1|385
 mula_bi_06_02|yamakapāḷi - du (yamaka-2)|1|70602|1|arhaငanandamedhāmū (du)|yamaka - 2|391
 mula_bi_06_03|yamakapāḷi - ta (yamaka-3)|1|70602|214|arhaငanandamedhāmū (du)|yamaka - 2|391
