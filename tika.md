@@ -18,10 +18,10 @@
 |annya_bi_03|visuddhimaggamahāṭīkā (pa)|218|**015**|1|vimaga|mahācañña (du)|234|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=66&par=721&channal=c91983d5-7ad2-43fb-b595-299884a65d18&display=sent&mode=edit&direction=col)|
 |annya_bi_04|visuddhimaggamahāṭīkā (du)|1|**016**|1|vimaga|mahācañña (ta)|259|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=67&par=5&channal=c91983d5-7ad2-43fb-b595-299884a65d18&display=sent&mode=edit&direction=col)|
 |annya_bi_04|visuddhimaggamahāṭīkā (du)|266|**017**|1|vimaga|mahācañña (ca)|272|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=67&par=877&channal=c91983d5-7ad2-43fb-b595-299884a65d18&display=sent&mode=edit&direction=col)|
-|tika_bi_01|aṭṭhasālinīmūlaṭīkā|1|**020**|1|nī mūṭī|**bhāṭī** (pa)|259|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=172&para=4&channal=c91983d5-7ad2-43fb-b595-299884a65d18&display=sent&mode=edit&direction=col)|
-|tika_bi_01|aṭṭhasālinīmūlaṭīkā|59|**021**|3|nī mūṭī|**bhāṭī** (du)|205|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=172&par=165&channal=c91983d5-7ad2-43fb-b595-299884a65d18&display=sent&mode=edit&direction=col)|
-|tika_bi_01|aṭṭhasālinīmūlaṭīkā|105|**022**|3|nī mūṭī|**bhāṭī** (ta)|166|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=172&para=350&channal=c91983d5-7ad2-43fb-b595-299884a65d18&display=sent&mode=edit&direction=col)|
-|tika_bi_01|aṭṭhasālinīmūlaṭīkā|151|**023**|3|nī mūṭī|**bhāṭī** (ca)|186|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=172&para=519&channal=c91983d5-7ad2-43fb-b595-299884a65d18&display=sent&mode=edit&direction=col)|
+|tika_bi_01|aṭṭhasālinīmūlaṭīkā|1|**020**|1|nī mūṭī|**bhāṭī** (pa)|259|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=172&para=4&channal=136fcd1a-3ef1-432c-8cfa-51eec1b68211&display=sent&mode=edit&direction=col)|
+|tika_bi_01|aṭṭhasālinīmūlaṭīkā|59|**021**|3|nī mūṭī|**bhāṭī** (du)|205|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=172&par=165&channal=136fcd1a-3ef1-432c-8cfa-51eec1b68211&display=sent&mode=edit&direction=col)|
+|tika_bi_01|aṭṭhasālinīmūlaṭīkā|105|**022**|3|nī mūṭī|**bhāṭī** (ta)|166|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=172&para=350&channal=136fcd1a-3ef1-432c-8cfa-51eec1b68211&display=sent&mode=edit&direction=col)|
+|tika_bi_01|aṭṭhasālinīmūlaṭīkā|151|**023**|3|nī mūṭī|**bhāṭī** (ca)|186|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=172&para=519&channal=136fcd1a-3ef1-432c-8cfa-51eec1b68211&display=sent&mode=edit&direction=col)|
 |tika_bi_02_01|vibhaṅgamūlaṭīkā|1|**026**|1|vibhaငa” mūṭī|**bhāṭī** (pa)|303|[waiting]|
 |tika_bi_02_01|vibhaṅgamūlaṭīkā|78|**027**|1|vibhaငa” mūṭī|**bhāṭī** (du)|324|[waiting]|
 |tika_bi_02_01|vibhaṅgamūlaṭīkā|176|**028**|1|vibhaငa” mūṭī|**bhāṭī** (ta)|169|[waiting]|
