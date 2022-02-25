@@ -14,8 +14,8 @@
 |tika_di_01_03|sīlakkhandhavaggaabhinavaṭīkā (du)|249|**011**|1|sīṭīsaca|ññoငarama” (ca)|544|
 |tika_di_02|mahāvaggaṭīkā (dīghanikāya)|1|**012**|1|sutamahāvā|ū”paññissara (pa)|720|
 |tika_di_02|mahāvaggaṭīkā (dīghanikāya)|193|**013**|1|sutamahāvā|ū”paññissara (du)|528|
-|annya_bi_03|visuddhimaggamahāṭīkā (pa)|1|**014**|1|vimaga|mahācañña (pa)|212|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=66&par=4&channal=c91983d5-7ad2-43fb-b595-299884a65d18&display=sent&mode=edit&direction=col)|
-|annya_bi_03|visuddhimaggamahāṭīkā (pa)|218|**015**|1|vimaga|mahācañña (du)|234|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=66&par=721&channal=c91983d5-7ad2-43fb-b595-299884a65d18&display=sent&mode=edit&direction=col)|
+|annya_bi_03|visuddhimaggamahāṭīkā (pa)|1|**014**|1|vimaga|mahācañña (pa)|212|[processing](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=66&par=4&channal=c91983d5-7ad2-43fb-b595-299884a65d18&display=sent&mode=edit&direction=col)|
+|annya_bi_03|visuddhimaggamahāṭīkā (pa)|218|**015**|1|vimaga|mahācañña (du)|234|[processing](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=66&par=721&channal=c91983d5-7ad2-43fb-b595-299884a65d18&display=sent&mode=edit&direction=col)|
 |annya_bi_04|visuddhimaggamahāṭīkā (du)|1|**016**|1|vimaga|mahācañña (ta)|259|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=67&par=5&channal=c91983d5-7ad2-43fb-b595-299884a65d18&display=sent&mode=edit&direction=col)|
 |annya_bi_04|visuddhimaggamahāṭīkā (du)|266|**017**|1|vimaga|mahācañña (ca)|272|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=67&par=877&channal=c91983d5-7ad2-43fb-b595-299884a65d18&display=sent&mode=edit&direction=col)|
 |tika_bi_01|aṭṭhasālinīmūlaṭīkā|1|**020**|1|nī mūṭī|**bhāṭī** (pa)|259|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=172&para=4&channal=136fcd1a-3ef1-432c-8cfa-51eec1b68211&display=sent&mode=edit&direction=col)|
