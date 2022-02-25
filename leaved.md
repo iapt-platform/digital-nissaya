@@ -13,6 +13,7 @@
 1. ဇာတက-အဋ္ဌကထာ **နိဿယ**( 11. ဧကာဒသကနိပါတော)
 1. ဇာတက-အဋ္ဌကထာ **နိဿယ**( 12. ဒွါဒသကနိပါတော)
 1. ဇာတက-အဋ္ဌကထာ **နိဿယ**( 13. တေရသကနိပါတော)
+2. အပဒါန-အဋ္ဌကထာ(ပထမတွဲ 1. ဗုဒ္ဓဝဂ္ဂေါ) နိဿယ
 
 
 Engligh Letter
@@ -30,4 +31,5 @@ Engligh Letter
 11. Jātaka-Aṭṭhakathā **Nissaya**( 11. Ekādasakanipāto)
 12. Jātaka-Aṭṭhakathā **Nissaya**( 12. Dvādasakanipāto)
 13. Jātaka-Aṭṭhakathā **Nissaya**( 13. Terasakanipāto)
+14. Apadāna-Aṭṭhakathā(vol1 1. Buddhavaggo) Nissaya
 
