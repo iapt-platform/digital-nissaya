@@ -104,11 +104,11 @@ attha_ku_18_01|paṭisambhidāmagga aṭṭhakathā (pa)|1|**111**|1|sāsanāre�
 attha_ku_18_02|paṭisambhidāmagga aṭṭhakathā (du)|1|**112**|1|sāsanāre” (du)|paṭisambhidāmaga du|621
 attha_ku_20|nettippakaraṇa aṭṭhakathā|1|**113**|23|khyoငa”koka (pa)|netti|483
 attha_ku_20|nettippakaraṇa aṭṭhakathā|141|**114**|1|khyoငa”koka (du)|netti|383
-annya_bi_01|visuddhimaggaaṭṭhakathā(pa)|1|**122**|1|paြñña (pa)|visuddhimaga (pa)|520|[todo]|
-annya_bi_01|visuddhimaggaaṭṭhakathā(pa)|191|**123**|1|paြñña (du)|visuddhimaga (pa)|548|[todo]|
-annya_bi_02|visuddhimaggaaṭṭhakathā(du)|1|**124**|1|paြñña (ta)|visuddhimaga (du)|452|[todo]|
-annya_bi_02|visuddhimaggaaṭṭhakathā(du)|148|**125**|1|paြñña (ca)|visuddhimaga (du)|267|[todo]|
-annya_bi_02|visuddhimaggaaṭṭhakathā(du)|222|**126**|1|paြñña (ma)|visuddhimaga (du)|468|[todo]|
+annya_bi_01|visuddhimaggaaṭṭhakathā(pa)|1|**122**|1|paြñña (pa)|visuddhimaga (pa)|520|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=64&par=4&channal=23eb02f5-c11f-4660-a5e6-bc173389ab0c&display=sent&mode=edit&direction=col)|
+annya_bi_01|visuddhimaggaaṭṭhakathā(pa)|191|**123**|1|paြñña (du)|visuddhimaga (pa)|548|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=64&par=1184&channal=23eb02f5-c11f-4660-a5e6-bc173389ab0c&display=sent&mode=edit&direction=col)|
+annya_bi_02|visuddhimaggaaṭṭhakathā(du)|1|**124**|1|paြñña (ta)|visuddhimaga (du)|452|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=65&par=5&channal=23eb02f5-c11f-4660-a5e6-bc173389ab0c&display=sent&mode=edit&direction=col)|
+annya_bi_02|visuddhimaggaaṭṭhakathā(du)|148|**125**|1|paြñña (ca)|visuddhimaga (du)|267|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=66&par=830&channal=23eb02f5-c11f-4660-a5e6-bc173389ab0c&display=sent&mode=edit&direction=col)|
+annya_bi_02|visuddhimaggaaṭṭhakathā(du)|222|**126**|1|paြñña (ma)|visuddhimaga (du)|468|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=65&par=1308&channal=23eb02f5-c11f-4660-a5e6-bc173389ab0c&display=sent&mode=edit&direction=col)|
 attha_bi_01|aṭṭhasālinī aṭṭhakathā|1|**131**|1|paြñña (pa)|aṭṭhasālinī|605|[blocking]|
 attha_bi_01|aṭṭhasālinī aṭṭhakathā|150|**132**|4|paြñña (du)|aṭṭhasālinī|574|[blocking]|
 attha_bi_01|aṭṭhasālinī aṭṭhakathā|290|**133**|2|paြñña (ta)|aṭṭhasālinī|532|[blocking]|
