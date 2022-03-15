@@ -21,12 +21,12 @@ attha_vi_02|pācityādiaṭṭhakathā (pācita)|1|**016**|1|**bhāṭī** (pa)|
 attha_vi_02|pācityādiaṭṭhakathā (pācita)|121|**017**|1|**bhāṭī** (du)|pācita|220
 attha_vi_03|pācityādiaṭṭhakathā (mahāvā)|233|**018**|1|maaူ|mahāvā|451|[blocking]|
 attha_vi_03|pācityādiaṭṭhakathā (mahāvā)|233|**020**|1|**bhāṭī** (pa)|mahāvā|396
-attha_vi_03|pācityādiaṭṭhakathā (mahāvā)|349|**021**|1|**bhāṭī** (du)|mahāvā|368
+attha_vi_03|pācityādiaṭṭhakathā (mahāvā)|349|**021**|1|**bhāṭī** (du)|mahāvā|368|**blur**|
 attha_vi_04|cūḷavaggādiaṭṭhakathā (cūḷavā)|1|**023**|1|**bhāṭī**|cūḷavā|463
-attha_vi_05|cūḷavaggādiaṭṭhakathā (parivā)|137|**025**|1|**bhāṭī**|parivā|351
+attha_vi_05|cūḷavaggādiaṭṭhakathā (parivā)|137|**025**|1|**bhāṭī**|parivā|351|**blur**|
 annya_vi_01|kaṅkhāvitaraṇī aṭṭhakathā|83|**027**|1| recakaြို (pa)|kaṅkhā|542|[blocking]|
 annya_vi_01|kaṅkhāvitaraṇī aṭṭhakathā|150|**028**|1|recakaြို (du)|kaṅkhā|619|[blocking]|
-annya_vi_01|kaṅkhāvitaraṇī aṭṭhakathā|83|**029**|1|**bhāṭī** (pa)|kaṅkhā|469
+annya_vi_01|kaṅkhāvitaraṇī aṭṭhakathā|83|**029**|1|**bhāṭī** (pa)|kaṅkhā|469|**blur**|
 annya_vi_01|kaṅkhāvitaraṇī aṭṭhakathā|190|**030**|1|**bhāṭī** (du)|kaṅkhā|415
 annya_vi_02|vinayasaṅgaha aṭṭhakathā|1|**031**|1|malhiုငacharātoa (pa)|vinayasaṅgahaaṭṭhakathā|552
 annya_vi_02|vinayasaṅgaha aṭṭhakathā|200|**032**|3|malhiုငacharātoa (du)|vinayasaṅgahaaṭṭhakathā|538
@@ -46,7 +46,7 @@ attha_di_02|mahāvaggaaṭṭhakathā|208|**052**|1|**bhāṭī** (ta)|sutamahā
 attha_di_03|pāthikavaggaaṭṭhakathā|1|**055**|9|pakhukkū|sutapātheyya|751|[blocking]|
 attha_di_03|pāthikavaggaaṭṭhakathā|1|**056**|1|**bhāṭī**|sutapātheyya|434
 attha_ma_01_01|mūlapaṇṇāsaaṭṭhakathā(pa)|1|**058**|1|miု”thi (pa)|mūlapaṇṇāsa|650
-attha_ma_01_01|mūlapaṇṇāsaaṭṭhakathā(pa)|231|**059**|0|miု”thi (du)|mūlapaṇṇāsa|640
+attha_ma_01_01|mūlapaṇṇāsaaṭṭhakathā(pa)|231|**059**|0|miု”thi (du)|mūlapaṇṇāsa|640|**blur**|
 attha_ma_01_02|mūlapaṇṇāsaaṭṭhakathā (du)|1|**059**|457|miု”thi (du)|mūlapaṇṇāsa|640
 attha_ma_01_02|mūlapaṇṇāsaaṭṭhakathā (du)|70|**060**|2|miု”thi (ta)|mūlapaṇṇāsa du|657
 attha_ma_02|majjhimapaṇṇāsaaṭṭhakathā|1|**061**|1|miု”thi (pa)|majjhimapaṇṇāsa|428
@@ -81,7 +81,7 @@ attha_ku_05_02|suttanipāta aṭṭhakathā(du)|1|**088**|280|miု”thi (du)|s
 attha_ku_05_02|suttanipāta aṭṭhakathā(du)|110|**089**|1|miု”thi (ta)|suttanipāta (du)|539
 attha_ku_06|vimānavatthu aṭṭhakathā|1|**090**|1|miု”thi (pa)|vimānavaththuaṭṭhakathā|394
 attha_ku_06|vimānavatthu aṭṭhakathā|161|**091**|1|miု”thi (du)|vimānavaththuaṭṭhakathā|379
-attha_ku_07|petavatthu aṭṭhakathā|1|**092**|1|miု”thi|petavaththu|606
+attha_ku_07|petavatthu aṭṭhakathā|1|**092**|1|miု”thi|petavaththu|606|**blur**|
 attha_ku_08_01|theragāthā aṭṭhakathā(pa)|1|**093**|1|miု”thi (pa)|theragāthā (pa)|527
 attha_ku_08_01|theragāthā aṭṭhakathā(pa)|216|**094**|1|miု”thi (du)|theragāthā (pa)|586
 attha_ku_08_02|theragāthā aṭṭhakathā(du)|1|**095**|1|miု”thi (ta)|theragāthā (du)|583
@@ -116,7 +116,7 @@ attha_bi_01|aṭṭhasālinī aṭṭhakathā|1|**134**|1|**bhāṭī** (pa)|a�
 attha_bi_01|aṭṭhasālinī aṭṭhakathā|97|**135**|1|**bhāṭī** (du)|aṭṭhasālinī|501|[waiting]|
 attha_bi_01|aṭṭhasālinī aṭṭhakathā|224|**136**|1|**bhāṭī** (ta)|aṭṭhasālinī|427|[waiting]|
 attha_bi_01|aṭṭhasālinī aṭṭhakathā|356|**137**|1|**bhāṭī** (ca)|aṭṭhasālinī|331|[waiting]|
-attha_bi_02|sammohavinodanī aṭṭhakathā (vibhaငa”)|1|**138**|1|**bhāṭī** (pa)|vibhaငa”|347
+attha_bi_02|sammohavinodanī aṭṭhakathā (vibhaငa”)|1|**138**|1|**blur** (pa)|vibhaငa”|347
 attha_bi_02|sammohavinodanī aṭṭhakathā (vibhaငa”)|118|**139**|1|**bhāṭī** (du)|vibhaငa”|516
 attha_bi_02|sammohavinodanī aṭṭhakathā (vibhaငa”)|310|**140**|1|**bhāṭī** (ta)|vibhaငa”|458
 attha_bi_03|pañcapakaraṇa aṭṭhakathā|1|**144**|0|**bhāṭī**|dhātukathā|286
