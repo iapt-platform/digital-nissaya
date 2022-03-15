@@ -25,7 +25,7 @@ mula_di_03|pāthikavaggapāḷi (dī-3)|1|20302|1|neraငa”mū|dī 3|358
 mula_ma_01|mūlapaṇṇāsapāḷi (ma-1)|1|30101|1|sāsanāre”mū|ma 1|359
 mula_ma_02|majjhimapaṇṇāsapāḷi (ma-2)|1|30201|1|sāsanāre”mū|ma 2|388
 mula_ma_03|uparipaṇṇāsapāḷi (ma-3)|1|30301|1|sāsanāre”mū|ma 3|307
-mula_sa_01|sagāthāvaggapāḷi (saṃ-1)|1|40101|1|sāsanāre”mū|saṃ 1|299
+mula_sa_01|sagāthāvaggapāḷi (saṃ-1)|1|40101|1|sāsanāre”mū|saṃ 1|299|**blur**|
 mula_sa_02|nidānavaggapāḷi (saṃ-1)|243|40201|1|sāsanāre”mū|saṃ 1|231
 mula_sa_03|khandhavaggapāḷi (saṃ-2)|1|40301|1|sāsanāre”mū|saṃ 2|222
 mula_sa_04|saḷāyatanavaggapāḷi (saṃ-2)|236|40401|1|sāsanāre”mū|saṃ 2|336
@@ -47,27 +47,27 @@ mula_ku_03|udānapāḷi (khu-1)|77|60003|1|miု”thimū|udāna|260
 mula_ku_04|itivuttakapāḷi (khu-1)|195|60004|1|miု”thimū|itivuta|180
 mula_ku_05|suttanipātapāḷi (khu-1)|279|60005|1|miု”thimū|suttani|339
 mula_ku_06|vimānavatthu (khu-2)|1|60006|1|miု”thimū|vimāna|247
-mula_ku_07|petavatthu (khu-2)|127|60007|1|miု”thimū|peta|195
+mula_ku_07|petavatthu (khu-2)|127|60007|1|miု”thimū|peta|195|**blur**|
 mula_ku_08|theragāthāpāḷi (khu-2)|219|60008|1|miု”thimū|thera|352
-mula_ku_09|therīgāthāpāḷi (khu-2)|377|60009|1|miု”thimū|therī|111
+mula_ku_09|therīgāthāpāḷi (khu-2)|377|60009|1|miု”thimū|therī|111|**blur**|
 mula_ku_10|apādānapāḷi- pa (khu-3)|1|60010|1|miု”thimū (pa)|apa 1|492
-mula_ku_10|apādānapāḷi- pa (khu-3)|305|60011|1|miု”thimū (du)|apa 1 |473
-mula_ku_11|apādānapāḷi - du (khu-4)|1|60011|0|miု”thimū (du)|apa 1 |473
-mula_ku_11|apādānapāḷi - du (khu-4)|187|60012|1|miု”thimū|apa 2|196
+mula_ku_10|apādānapāḷi- pa (khu-3)|305|60011|1|miု”thimū (du)|apa 1 |473|**blur**|
+mula_ku_11|apādānapāḷi - du (khu-4)|1|60011|0|miု”thimū (du)|apa 1 |473|**blur**|
+mula_ku_11|apādānapāḷi - du (khu-4)|187|60012|1|miု”thimū|apa 2|196|**blur**|
 mula_ku_12|buddhavaṃsapāḷi (khu-4)|299|60013|1|miု”thimū|buddhavaṃ|187
-mula_ku_13|cariyāpiṭakapāḷi (khu-4)|385|60014|1|miု”thimū|cariyā|69
+mula_ku_13|cariyāpiṭakapāḷi (khu-4)|385|60014|1|miု”thimū|cariyā|69|**blur**|
 mula_ku_14|jātakapāḷi - pa (khu-5)|1|60015|1|ññoငakanamū (pa)|jātaka 1|403
 mula_ku_14|jātakapāḷi - pa (khu-5)|93|60016|1|ññoငakanamū (du)|jātaka 1|417
-mula_ku_14|jātakapāḷi - pa (khu-5)|1|60017|1|miု”thimū|jātaka 1|646
+mula_ku_14|jātakapāḷi - pa (khu-5)|1|60017|1|miု”thimū|jātaka 1|646|**blur**|
 mula_ku_15|jātakapāḷi - du (khu-6)|1|60018|1|miု”thimū|jātaka 2|277
-mula_ku_16|mahāniddesapāḷi (khu-7)|1|60019|1|miု”thimū (pa)|mahāni|604
-mula_ku_16|mahāniddesapāḷi (khu-7)|221|60020|1|miု”thimū (du)|mahāni|460
-mula_ku_17|cūḷaniddesapāḷi (khu-8)|1|60021|0|miု”thimū|cūḷani|725
+mula_ku_16|mahāniddesapāḷi (khu-7)|1|60019|1|miု”thimū (pa)|mahāni|604|**blur**|
+mula_ku_16|mahāniddesapāḷi (khu-7)|221|60020|1|miု”thimū (du)|mahāni|460|**blur**|
+mula_ku_17|cūḷaniddesapāḷi (khu-8)|1|60021|0|miု”thimū|cūḷani|725|**blur**|
 mula_ku_18|paṭisambhidāmaggapāḷi (khu-9)|1|60022|1|sāsanāre”mū|paṭisaṃ|376
 mula_ku_19|milindapañhapāḷi (khu-10)|1|60023|1|miု”thi (pa)|milinda|605
 mula_ku_19|milindapañhapāḷi (khu-10)|208|60024|1|miု”thi (du)|milinda|464
-mula_ku_20|nettipakaraṇapāḷi (khu-11)|1|60025|1|miု”thimū|netti|449
-mula_ku_21|peṭakopadesapāḷi (khu-11)|167|60026|1|miု”thimū|peṭako|420
+mula_ku_20|nettipakaraṇapāḷi (khu-11)|1|60025|1|miု”thimū|netti|449|**blur**|
+mula_ku_21|peṭakopadesapāḷi (khu-11)|167|60026|1|miု”thimū|peṭako|420|**blur**|
 mula_bi_01|dhammasaṅgaṇīpāḷi (abhi-1)|1|70101|1|thanoငa”vana”mū|ṇī|504|[blocking]|
 mula_bi_01|dhammasaṅgaṇīpāḷi (abhi-1)|1|70102|0|**bhāsāṭīkā**|ṇī|97
 mula_bi_02|vibhaṅgapāḷi (abhi-2)|1|70201|1|rājagurumū|vibhaငa”|438|[blocking]|
