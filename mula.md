@@ -22,9 +22,9 @@ mula_di_02|mahāvaggapāḷi (dī-2)|1|pali-20203|1|pakhukkūmū|dī 2|805
 mula_di_02|mahāvaggapāḷi (dī-2)|1|pali-20204|1|**bhāsāṭīkā**|dī 2|519
 mula_di_03|pāthikavaggapāḷi (dī-3)|1|pali-20301|1|pakhukkūmū|dī 3|720
 mula_di_03|pāthikavaggapāḷi (dī-3)|1|pali-20302|1|neraငa”mū|dī 3|358
-mula_ma_01|mūlapaṇṇāsapāḷi (ma-1)|1|pali-30101|1|sāsanāre”mū|ma 1|359
-mula_ma_02|majjhimapaṇṇāsapāḷi (ma-2)|1|pali-30201|1|sāsanāre”mū|ma 2|388
-mula_ma_03|uparipaṇṇāsapāḷi (ma-3)|1|pali-30301|1|sāsanāre”mū|ma 3|307
+mula_ma_01|mūlapaṇṇāsapāḷi (ma-1)|1|pali-30101|1|sāsanāre”mū|ma 1|359|[link](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=164&par=5&channal=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
+mula_ma_02|majjhimapaṇṇāsapāḷi (ma-2)|1|pali-30201|1|sāsanāre”mū|ma 2|388|[link](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=165&par=5&channal=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
+mula_ma_03|uparipaṇṇāsapāḷi (ma-3)|1|pali-30301|1|sāsanāre”mū|ma 3|307|[link](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=166&par=5&channal=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
 mula_sa_01|sagāthāvaggapāḷi (saṃ-1)|1|pali-40101|1|sāsanāre”mū|saṃ 1|299|**blur**|
 mula_sa_02|nidānavaggapāḷi (saṃ-1)|243|pali-40201|1|sāsanāre”mū|saṃ 1|231
 mula_sa_03|khandhavaggapāḷi (saṃ-2)|1|pali-40301|1|sāsanāre”mū|saṃ 2|222
@@ -60,7 +60,7 @@ mula_ku_14|jātakapāḷi - pa (khu-5)|1|pali-60015|1|ññoငakanamū (pa)|jāt
 mula_ku_14|jātakapāḷi - pa (khu-5)|93|pali-60016|1|ññoငakanamū (du)|jātaka 1|417
 mula_ku_14|jātakapāḷi - pa (khu-5)|1|pali-60017|1|miု”thimū|jātaka 1|646|**blur**|
 mula_ku_15|jātakapāḷi - du (khu-6)|1|pali-60018|1|miု”thimū|jātaka 2|277
-mula_ku_16|mahāniddesapāḷi (khu-7)|1|pali-60019|1|miု”thimū (pa)|mahāni|604|**blur**|
+mula_ku_16|mahāniddesapāḷi (khu-7)|1|pali-60019|1|miု”thimū (pa)|mahāni|604|[link](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=149&par=5&channal=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
 mula_ku_16|mahāniddesapāḷi (khu-7)|221|pali-60020|1|miု”thimū (du)|mahāni|460|**blur**|
 mula_ku_17|cūḷaniddesapāḷi (khu-8)|1|pali-60021|0|miု”thimū|cūḷani|725|**blur**|
 mula_ku_18|paṭisambhidāmaggapāḷi (khu-9)|1|pali-60022|1|sāsanāre”mū|paṭisaṃ|376
