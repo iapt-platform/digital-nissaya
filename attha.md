@@ -45,14 +45,14 @@ attha_di_02|mahāvaggaaṭṭhakathā|106|**attha-051**|1|**bhāṭī** (du)|sut
 attha_di_02|mahāvaggaaṭṭhakathā|208|**attha-052**|1|**bhāṭī** (ta)|sutamahāvā|734
 attha_di_03|pāthikavaggaaṭṭhakathā|1|**attha-055**|9|pakhukkū|sutapātheyya|751|[blocking]|
 attha_di_03|pāthikavaggaaṭṭhakathā|1|**attha-056**|1|**bhāṭī**|sutapātheyya|434
-attha_ma_01_01|mūlapaṇṇāsaaṭṭhakathā(pa)|1|**attha-058**|1|miု”thi (pa)|mūlapaṇṇāsa|650
-attha_ma_01_01|mūlapaṇṇāsaaṭṭhakathā(pa)|231|**attha-059**|0|miု”thi (du)|mūlapaṇṇāsa|640|**blur**|
+attha_ma_01_01|mūlapaṇṇāsaaṭṭhakathā(pa)|1|**attha-058**|1|miု”thi (pa)|mūlapaṇṇāsa|650|[link](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=130&par=6&channal=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
+attha_ma_01_01|mūlapaṇṇāsaaṭṭhakathā(pa)|231|**attha-059**|0|miု”thi (du)|mūlapaṇṇāsa|640|**blur**[link](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=130&par=1083&channal=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
 attha_ma_01_02|mūlapaṇṇāsaaṭṭhakathā (du)|1|**attha-059**|457|miု”thi (du)|mūlapaṇṇāsa|640
-attha_ma_01_02|mūlapaṇṇāsaaṭṭhakathā (du)|70|**attha-060**|2|miု”thi (ta)|mūlapaṇṇāsa du|657
-attha_ma_02|majjhimapaṇṇāsaaṭṭhakathā|1|**attha-061**|1|miု”thi (pa)|majjhimapaṇṇāsa|428
-attha_ma_02|majjhimapaṇṇāsaaṭṭhakathā|155|**attha-062**|2|miု”thi (du)|majjhimapaṇṇāsa|432
-attha_ma_03|uparipaṇṇāsaaṭṭhakathā|1|**attha-063**|1|miု”thi (pa)|uparipaṇṇāsa|389
-attha_ma_03|uparipaṇṇāsaaṭṭhakathā|136|**attha-064**|1|miု”thi (du)|uparipaṇṇāsa|319
+attha_ma_01_02|mūlapaṇṇāsaaṭṭhakathā (du)|70|**attha-060**|2|miု”thi (ta)|mūlapaṇṇāsa du|657|[link](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=130&par=2076&channal=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
+attha_ma_02|majjhimapaṇṇāsaaṭṭhakathā|1|**attha-061**|1|miု”thi (pa)|majjhimapaṇṇāsa|428|[link](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=131&par=5&channal=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
+attha_ma_02|majjhimapaṇṇāsaaṭṭhakathā|155|**attha-062**|2|miု”thi (du)|majjhimapaṇṇāsa|432|[link](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=131&par=700&channal=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
+attha_ma_03|uparipaṇṇāsaaṭṭhakathā|1|**attha-063**|1|miု”thi (pa)|uparipaṇṇāsa|389|[link](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=132&par=5&channal=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
+attha_ma_03|uparipaṇṇāsaaṭṭhakathā|136|**attha-064**|1|miု”thi (du)|uparipaṇṇāsa|319|[link](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=132&par=538&channal=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
 attha_sa_01|saṃyuttaaṭṭhakathā(pa) (sagāthāvagga)|1|**attha-065**|1|miု”thi (pa)|sagāthāvagga|438
 attha_sa_01|saṃyuttaaṭṭhakathā(pa) (sagāthāvagga)|174|**attha-066**|1|miု”thi (du)|sagāthāvagga|377
 attha_sa_02|saṃyuttaaṭṭhakathā(du) (nidānavagga)|1|**attha-067**|1|miု”thi (pa)|nidānavagga|336
@@ -70,15 +70,15 @@ attha_an_04|aṅguttaraaṭṭhakathā(ta) (aṭṭhakādi)|193|**attha-077**|0|
 attha_ku_01|khuddakapāṭha aṭṭhakathā|1|**attha-078**|1|miု”thi|khuddakapāṭha|556
 attha_ku_02_01|dhammapada aṭṭhakathā(pa)|1|**attha-079**|1|paြာsāda (pa)|dhammapada|499
 attha_ku_02_01|dhammapada aṭṭhakathā(pa)|182|**attha-080**|1|paြာsāda (du)|dhammapada|630
-attha_ku_02_02|dhammapada aṭṭhakathā(du)|1|**attha-082**|0|paြာsāda (ta)|dhammapada (du)|646|[processing](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=122&par=2064&channal=c91983d5-7ad2-43fb-b595-299884a65d18&display=sent&mode=edit&direction=col)
-attha_ku_02_02|dhammapada aṭṭhakathā(du)|241|**attha-083**|1|paြာsāda (ca)|dhammapada (du)|521|[processing](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=122&para=3353&channal=c91983d5-7ad2-43fb-b595-299884a65d18&display=sent&mode=edit&direction=col)|
+attha_ku_02_02|dhammapada aṭṭhakathā(du)|1|**attha-082**|0|paြာsāda (ta)|dhammapada (du)|646|[processing](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=122&par=2064&channal=a5c8e52c-9028-43d5-b0e1-6596681af41a&display=sent&mode=edit&direction=col)
+attha_ku_02_02|dhammapada aṭṭhakathā(du)|241|**attha-083**|1|paြာsāda (ca)|dhammapada (du)|521|[processing](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=122&para=3353&channal=a5c8e52c-9028-43d5-b0e1-6596681af41a&display=sent&mode=edit&direction=col)|
 attha_ku_03|udāna aṭṭhakathā|1|**attha-084**|1|miု”thi (pa)|udāna”|533
 attha_ku_03|udāna aṭṭhakathā|196|**attha-085**|1|miု”thi (du)|udāna”|521
 attha_ku_04|itivuttaka aṭṭhakathā|1|**attha-086**|1|miု”thi (pa)|itivuta|456
 attha_ku_05_01|suttanipāta aṭṭhakathā(pa)|1|**attha-087**|1|miု”thi (pa)|suttanipāta (pa)|554
 attha_ku_05_01|suttanipāta aṭṭhakathā(pa)|213|**attha-088**|2|miု”thi (du)|suttanipāta (pa)|567
 attha_ku_05_02|suttanipāta aṭṭhakathā(du)|1|**attha-088**|280|miု”thi (du)|suttanipāta (pa)|567
-attha_ku_05_02|suttanipāta aṭṭhakathā(du)|110|**attha-089**|1|miု”thi (ta)|suttanipāta (du)|539
+attha_ku_05_02|suttanipāta aṭṭhakathā(du)|110|**attha-089**|1|miု”thi (ta)|suttanipāta (du)|539|[link](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=125&par=1677&channal=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
 attha_ku_06|vimānavatthu aṭṭhakathā|1|**attha-090**|1|miု”thi (pa)|vimānavaththuaṭṭhakathā|394
 attha_ku_06|vimānavatthu aṭṭhakathā|161|**attha-091**|1|miု”thi (du)|vimānavaththuaṭṭhakathā|379
 attha_ku_07|petavatthu aṭṭhakathā|1|**attha-092**|1|miု”thi|petavaththu|606|**blur**|
