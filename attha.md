@@ -3,6 +3,8 @@
 channel id:
 
 nissaya :a73e1d78-9666-4cb2-b909-f235aa3362e5
+nissaya-1:61620d9a-7956-43be-ac89-ddfb314c44d7(old version nissaya)
+nissaya-2:1bff124a-1d29-419a-a3f3-08c8d06609d4(new version nissaya)
 
 Bhāsāṭīkā:136fcd1a-3ef1-432c-8cfa-51eec1b68211
 
