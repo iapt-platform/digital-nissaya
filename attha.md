@@ -3,6 +3,8 @@
 channel id:
 
 nissaya :a73e1d78-9666-4cb2-b909-f235aa3362e5
+nissaya-1:61620d9a-7956-43be-ac89-ddfb314c44d7(old version nissaya)
+nissaya-2:1bff124a-1d29-419a-a3f3-08c8d06609d4(new version nissaya)
 
 Bhāsāṭīkā:136fcd1a-3ef1-432c-8cfa-51eec1b68211
 
@@ -104,11 +106,11 @@ attha_ku_18_01|paṭisambhidāmagga aṭṭhakathā (pa)|1|**attha-111**|1|sāsa
 attha_ku_18_02|paṭisambhidāmagga aṭṭhakathā (du)|1|**attha-112**|1|sāsanāre” (du)|paṭisambhidāmaga du|621
 attha_ku_20|nettippakaraṇa aṭṭhakathā|1|**attha-113**|23|khyoငa”koka (pa)|netti|483
 attha_ku_20|nettippakaraṇa aṭṭhakathā|141|**attha-114**|1|khyoငa”koka (du)|netti|383
-annya_bi_01|visuddhimaggaaṭṭhakathā(pa)|1|**attha-122**|1|paြñña (pa)|visuddhimaga (pa)|520|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=64&par=4&channal=23eb02f5-c11f-4660-a5e6-bc173389ab0c&display=sent&mode=edit&direction=col)|
-annya_bi_01|visuddhimaggaaṭṭhakathā(pa)|191|**attha-123**|1|paြñña (du)|visuddhimaga (pa)|548|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=64&par=1184&channal=23eb02f5-c11f-4660-a5e6-bc173389ab0c&display=sent&mode=edit&direction=col)|
-annya_bi_02|visuddhimaggaaṭṭhakathā(du)|1|**attha-124**|1|paြñña (ta)|visuddhimaga (du)|452|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=65&par=5&channal=23eb02f5-c11f-4660-a5e6-bc173389ab0c&display=sent&mode=edit&direction=col)|
-annya_bi_02|visuddhimaggaaṭṭhakathā(du)|148|**attha-125**|1|paြñña (ca)|visuddhimaga (du)|267|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=66&par=830&channal=23eb02f5-c11f-4660-a5e6-bc173389ab0c&display=sent&mode=edit&direction=col)|
-annya_bi_02|visuddhimaggaaṭṭhakathā(du)|222|**attha-126**|1|paြñña (ma)|visuddhimaga (du)|468|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=65&par=1308&channal=23eb02f5-c11f-4660-a5e6-bc173389ab0c&display=sent&mode=edit&direction=col)|
+annya_bi_01|visuddhimagga aṭṭhakathā(pa)|1|**attha-122**|1|paြñña (pa)|visuddhimaga (pa)|520|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=64&par=4&channal=23eb02f5-c11f-4660-a5e6-bc173389ab0c&display=sent&mode=edit&direction=col)|
+annya_bi_01|visuddhimagga aṭṭhakathā(pa)|191|**attha-123**|1|paြñña (du)|visuddhimaga (pa)|548|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=64&par=1184&channal=23eb02f5-c11f-4660-a5e6-bc173389ab0c&display=sent&mode=edit&direction=col)|
+annya_bi_02|visuddhimagga aṭṭhakathā(du)|1|**attha-124**|1|paြñña (ta)|visuddhimaga (du)|452|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=65&par=5&channal=23eb02f5-c11f-4660-a5e6-bc173389ab0c&display=sent&mode=edit&direction=col)|
+annya_bi_02|visuddhimagga aṭṭhakathā(du)|148|**attha-125**|1|paြñña (ca)|visuddhimaga (du)|267|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=66&par=830&channal=23eb02f5-c11f-4660-a5e6-bc173389ab0c&display=sent&mode=edit&direction=col)|
+annya_bi_02|visuddhimagga aṭṭhakathā(du)|222|**attha-126**|1|paြñña (ma)|visuddhimaga (du)|468|[todo](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=65&par=1308&channal=23eb02f5-c11f-4660-a5e6-bc173389ab0c&display=sent&mode=edit&direction=col)|
 attha_bi_01|aṭṭhasālinī aṭṭhakathā|1|**attha-131**|1|paြñña (pa)|aṭṭhasālinī|605|[blocking](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=96&par=5&channal=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=row)|
 attha_bi_01|aṭṭhasālinī aṭṭhakathā|150|**attha-132**|4|paြñña (du)|aṭṭhasālinī|574|[blocking](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=96&par=1150&channal=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=row)|
 attha_bi_01|aṭṭhasālinī aṭṭhakathā|290|**attha-133**|2|paြñña (ta)|aṭṭhasālinī|532|[blocking]|
