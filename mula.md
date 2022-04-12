@@ -25,7 +25,7 @@
 |3|mula_ma_01|mūlapaṇṇāsapāḷi (ma-1)|1|pali-30101|1|sāsanāre”mū|ma 1|359|[link](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=164&par=5&channal=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
 |3|mula_ma_02|majjhimapaṇṇāsapāḷi (ma-2)|1|pali-30201|1|sāsanāre”mū|ma 2|388|[link](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=165&par=5&channal=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
 |3|mula_ma_03|uparipaṇṇāsapāḷi (ma-3)|1|pali-30301|1|sāsanāre”mū|ma 3|307|[link](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=166&par=5&channal=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
-|3|mula_sa_01|sagāthāvaggapāḷi (saṃ-1)|1|pali-40101|1|sāsanāre”mū|saṃ 1|299|**blur**|
+|3|mula_sa_01|sagāthāvaggapāḷi (saṃ-1)|1|pali-40101|1|sāsanāre”mū|saṃ 1|299||
 |3|mula_sa_02|nidānavaggapāḷi (saṃ-1)|243|pali-40201|1|sāsanāre”mū|saṃ 1|231
 |3|mula_sa_03|khandhavaggapāḷi (saṃ-2)|1|pali-40301|1|sāsanāre”mū|saṃ 2|222
 |3|mula_sa_04|saḷāyatanavaggapāḷi (saṃ-2)|236|pali-40401|1|sāsanāre”mū|saṃ 2|336
@@ -42,33 +42,33 @@
 |3|mula_an_10|dakakanipātipāḷi (aṃ-3)|257|pali-50005|264|ū”paññissara (pañca)|aṃ 3|805
 |3|mula_an_11|dakādasakanipātipāḷi (aṃ-3)|515|pali-50005|746|ū”paññissara (pañca)|aṃ 3|805
 
-3|mula_ku_01|khuddakapāṭhapāḷi (khu-1)|1|pali-60001|1|miု”thimū|khuddaka|20
+3|mula_ku_01|khuddakapāṭhapāḷi (khu-1)|1|pali-60001|1|miuthimū|khuddaka|20
 3|mula_ku_02|dhammapadapāḷi (khu-1)|13|pali-60002|0|saṅgajāmū|dhammapada|240
-3|mula_ku_03|udānapāḷi (khu-1)|77|pali-60003|1|miု”thimū|udāna|260
-3|mula_ku_04|itivuttakapāḷi (khu-1)|195|pali-60004|1|miု”thimū|itivuta|180
-3|mula_ku_05|suttanipātapāḷi (khu-1)|279|pali-60005|1|miု”thimū|suttani|339
-3|mula_ku_06|vimānavatthu (khu-2)|1|pali-60006|1|miု”thimū|vimāna|247
-3|mula_ku_07|petavatthu (khu-2)|127|pali-60007|1|miု”thimū|peta|195|**blur**|
-3|mula_ku_08|theragāthāpāḷi (khu-2)|219|pali-60008|1|miု”thimū|thera|352
-3|mula_ku_09|therīgāthāpāḷi (khu-2)|377|pali-60009|1|miု”thimū|therī|111|**blur**|
-3|mula_ku_10|apādānapāḷi- pa (khu-3)|1|pali-60010|1|miု”thimū (pa)|apa 1|492
-3|mula_ku_10|apādānapāḷi- pa (khu-3)|305|pali-60011|1|miု”thimū (du)|apa 1 |473|**blur**|
-3|mula_ku_11|apādānapāḷi - du (khu-4)|1|pali-60011|0|miု”thimū (du)|apa 1 |473|**blur**|
-3|mula_ku_11|apādānapāḷi - du (khu-4)|187|pali-60012|1|miု”thimū|apa 2|196|**blur**|
-3|mula_ku_12|buddhavaṃsapāḷi (khu-4)|299|pali-60013|1|miု”thimū|buddhavaṃ|187
-3|mula_ku_13|cariyāpiṭakapāḷi (khu-4)|385|pali-60014|1|miု”thimū|cariyā|69|**blur**|
+3|mula_ku_03|udānapāḷi (khu-1)|77|pali-60003|1|miuthimū|udāna|260
+3|mula_ku_04|itivuttakapāḷi (khu-1)|195|pali-60004|1|miuthimū|itivuta|180
+3|mula_ku_05|suttanipātapāḷi (khu-1)|279|pali-60005|1|miuthimū|suttani|339
+3|mula_ku_06|vimānavatthu (khu-2)|1|pali-60006|1|miuthimū|vimāna|247
+3|mula_ku_07|petavatthu (khu-2)|127|pali-60007|1|miuthimū|peta|195|**blur**|
+3|mula_ku_08|theragāthāpāḷi (khu-2)|219|pali-60008|1|miuthimū|thera|352
+3|mula_ku_09|therīgāthāpāḷi (khu-2)|377|pali-60009|1|miuthimū|therī|111|**blur**|
+3|mula_ku_10|apādānapāḷi- pa (khu-3)|1|pali-60010|1|miuthimū (pa)|apa 1|492
+3|mula_ku_10|apādānapāḷi- pa (khu-3)|305|pali-60011|1|miuthimū (du)|apa 1 |473|**blur**|
+3|mula_ku_11|apādānapāḷi - du (khu-4)|1|pali-60011|0|miuthimū (du)|apa 1 |473|**blur**|
+3|mula_ku_11|apādānapāḷi - du (khu-4)|187|pali-60012|1|miuthimū|apa 2|196|**blur**|
+3|mula_ku_12|buddhavaṃsapāḷi (khu-4)|299|pali-60013|1|miuthimū|buddhavaṃ|187
+3|mula_ku_13|cariyāpiṭakapāḷi (khu-4)|385|pali-60014|1|miuthimū|cariyā|69|**blur**|
 3|mula_ku_14|jātakapāḷi - pa (khu-5)|1|pali-60015|1|ññoငakanamū (pa)|jātaka 1|403
 3|mula_ku_14|jātakapāḷi - pa (khu-5)|93|pali-60016|1|ññoငakanamū (du)|jātaka 1|417
-3|mula_ku_14|jātakapāḷi - pa (khu-5)|1|pali-60017|1|miု”thimū|jātaka 1|646|**blur**|
-3|mula_ku_15|jātakapāḷi - du (khu-6)|1|pali-60018|1|miု”thimū|jātaka 2|277
-3|mula_ku_16|mahāniddesapāḷi (khu-7)|1|pali-60019|1|miု”thimū (pa)|mahāni|604|[link](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=149&par=5&channal=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
-3|mula_ku_16|mahāniddesapāḷi (khu-7)|221|pali-60020|1|miု”thimū (du)|mahāni|460|**blur**|
-3|mula_ku_17|cūḷaniddesapāḷi (khu-8)|1|pali-60021|0|miု”thimū|cūḷani|725|**blur**|
+3|mula_ku_14|jātakapāḷi - pa (khu-5)|1|pali-60017|1|miuthimū|jātaka 1|646|**blur**|
+3|mula_ku_15|jātakapāḷi - du (khu-6)|1|pali-60018|1|miuthimū|jātaka 2|277
+3|mula_ku_16|mahāniddesapāḷi (khu-7)|1|pali-60019|1|miuthimū (pa)|mahāni|604|[link](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=149&par=5&channal=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
+3|mula_ku_16|mahāniddesapāḷi (khu-7)|221|pali-60020|1|miuthimū (du)|mahāni|460|**blur**|
+3|mula_ku_17|cūḷaniddesapāḷi (khu-8)|1|pali-60021|0|miuthimū|cūḷani|725|**blur**|
 3|mula_ku_18|paṭisambhidāmaggapāḷi (khu-9)|1|pali-60022|1|sāsanāre”mū|paṭisaṃ|376
-3|mula_ku_19|milindapañhapāḷi (khu-10)|1|pali-60023|1|miု”thi (pa)|milinda|605
-3|mula_ku_19|milindapañhapāḷi (khu-10)|208|pali-60024|1|miု”thi (du)|milinda|464
-3|mula_ku_20|nettipakaraṇapāḷi (khu-11)|1|pali-60025|1|miု”thimū|netti|449|**blur**|
-3|mula_ku_21|peṭakopadesapāḷi (khu-11)|167|pali-60026|1|miု”thimū|peṭako|420|**blur**|
+3|mula_ku_19|milindapañhapāḷi (khu-10)|1|pali-60023|1|miuthi (pa)|milinda|605
+3|mula_ku_19|milindapañhapāḷi (khu-10)|208|pali-60024|1|miuthi (du)|milinda|464
+3|mula_ku_20|nettipakaraṇapāḷi (khu-11)|1|pali-60025|1|miuthimū|netti|449|**blur**|
+3|mula_ku_21|peṭakopadesapāḷi (khu-11)|167|pali-60026|1|miuthimū|peṭako|420|**blur**|
 
 2|mula_bi_01|dhammasaṅgaṇīpāḷi (abhi-1)|1|pali-70101|1|thanoငa”vana”mū|ṇī|504|[blocking]|
 2|mula_bi_01|dhammasaṅgaṇīpāḷi (abhi-1)|1|pali-70102|0|**bhāṭī**|ṇī|97
