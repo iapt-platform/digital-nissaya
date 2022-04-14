@@ -1,11 +1,15 @@
-# digital-nissaya
+# Digital Nissaya
 
-## Outline
+## What is the Nissaya
+
+Myanmar nissaya is word by word explaination for pali canon.
 
 
 
 
 ## Resuse
+
+Most of the PDF come from website of below.
 
 ### Pali Nissaya
 
