@@ -1262,6 +1262,34 @@
 | Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=131&from=700&to=1339&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=432) |
 |    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=131&from=700&to=1339&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=432)|
 
+### [a-063]ဥပရိပဏ္ဏာသအဋ္ဌကထာ(ပ)|uparipaṇṇāsaaṭṭhakathā nissaya(1)|389|
+|Item|value|
+|-|-|
+|Book Id| attha-063 |
+| Title| uparipaṇṇāsaaṭṭhakathā nissaya(1) |
+|      | ဥပရိပဏ္ဏာသအဋ္ဌကထာ(ပ)|
+|Page number| 389 |
+| Online | [Read&download](https://drive.google.com/file/d/1fEk0qK3dhHGsk8NAAvGbjZjrzVfj5DLD/view?usp=sharing)|
+|Link|[read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=131&par=5&channal=a73e1d78-9666-4cb2-b909-f235aa3362e5) |
+|    |[edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=131&par=5&channal=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=131&from=5&to=537&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=389) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=131&from=5&to=537&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=389)|
+
+### [a-064]ဥပရိပဏ္ဏာသအဋ္ဌကထာ(ဒု)|uparipaṇṇāsaaṭṭhakathā-2|319|
+|Item|value|
+|-|-|
+|Book Id| attha-064 |
+| Title| uparipaṇṇāsaaṭṭhakathā nissaya(2) |
+|      | ဥပရိပဏ္ဏာသအဋ္ဌကထာ(ဒု)|
+|Page number| 319 |
+| Online | [Read&download](https://drive.google.com/file/d/1XoJPuMwcrnrOkbt2zmHX79hUHCr-NOQZ/view?usp=sharing)|
+|Link|[read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=131&par=538&channal=a73e1d78-9666-4cb2-b909-f235aa3362e5) |
+|    |[edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=131&par=538&channal=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=131&from=538&to=1107&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=319) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=131&from=538&to=1107&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=319)|
+
+
+
 
 ### [a-065]သံယုတ္တအဋ္ဌကထာ(သဂါထာဝဂ္ဂ)(ပ)|saṃyuttaaṭṭhakathā(sagāthāvagga)-1|438|
 |Item|value|
@@ -1353,6 +1381,155 @@
 |Link|[edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=137&par=6&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0&display=sent&mode=edit&direction=col)|
 | Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=137&from=6&to=1016&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=381) |
 |    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=137&from=6&to=1016&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=381)|
+
+
+### [a-072]အင်္ဂုတ္တရအဋ္ဌကထာ(ဧကက)(ပ)|aṅguttara aṭṭhakathā-1(eka)|736|
+|Item|value|
+|-|-|
+|Book Id| attha-072 |
+| Title| aṅguttara aṭṭhakathā-1(eka) |
+|      | အင်္ဂုတ္တရအဋ္ဌကထာ(ဧကက)(ပ)|
+|Page number| 736 |
+| Online | [Read&download](https://drive.google.com/file/d/1LBQNo4pRNi_xIdb6zQSp3JOUO_tVNYEp/view?usp=sharing)|
+|Link|[read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=99&par=4&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0) |
+|Link|[edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=99&par=4&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=99&from=4&to=1624&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=736) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=99&from=4&to=1624&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=736)|
+
+### [a-073]အင်္ဂုတ္တရအဋ္ဌကထာ(ဒု，တိ，စတုက္က)(ဒု)|aṅguttaraaṭṭhakathā-2(du，ti，catukka)|622|
+|Item|value|
+|-|-|
+|Book Id| attha-073 |
+| Title| aṅguttara aṭṭhakathā-2(du，ti，catukka |
+|      | အင်္ဂုတ္တရအဋ္ဌကထာ(ဒု，တိ，စတုက္က)(ဒု)|
+|Page number| 622 |
+| Online | [Read&download](https://drive.google.com/file/d/1uGuHXSOhqfDm4QV1GzbpuVNjraWGhoTV/view?usp=sharing)|
+|Link|[read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=100&par=6&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0) |
+|Link|[edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=100&par=6&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=100&from=6&to=322&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=622) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=100&from=6&to=322&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=622)|
+
+### [a-074]အင်္ဂုတ္တရအဋ္ဌကထာ(ဒု，တိ，စတုက္က)(ဒု-ဒု)|aṅguttaraaṭṭhakathā-3(du，ti，catukka)|377|
+|Item|value|
+|-|-|
+|Book Id| attha-074 |
+| Title| aṅguttara aṭṭhakathā-2(du，ti，catukka |
+|      | အင်္ဂုတ္တရအဋ္ဌကထာ(ဒု，တိ，စတုက္က)(ဒု)|
+|Page number| 377 |
+| Online | [Read&download](https://drive.google.com/file/d/1NbY07wZ0PVZCDTAq1xdOM7kgT95A6G3W/view?usp=sharing)|
+|Link|[read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=100&par=328&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0) |
+|Link|[edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=100&par=328&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=100&from=328&to=774&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=377) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=100&from=328&to=774&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=377)|
+
+### [a-075]အင်္ဂုတ္တရအဋ္ဌကထာ(ဒု，တိ，စတုက္က)(စ)|aṅguttaraaṭṭhakathā-4(du，ti，catukka)|481|
+|Item|value|
+|-|-|
+|Book Id| attha-075 |
+| Title| aṅguttara aṭṭhakathā-4(du，ti，catukka) |
+|      | အင်္ဂုတ္တရအဋ္ဌကထာ(ဒု，တိ，စတုက္က)(စ)|
+|Page number| 481 |
+| Online | [Read&download](https://drive.google.com/file/d/1NbY07wZ0PVZCDTAq1xdOM7kgT95A6G3W/view?usp=sharing)|
+|Link|[read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=100&par=776&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0) |
+|Link|[edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=100&par=776&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=100&from=776&to=1722&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=481) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=100&from=776&to=1722&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=481)|
+
+
+### [a-076]အင်္ဂုတ္တရအဋ္ဌကထာ(ပဉ္စ，ဆ，သတ္တက)(မ)|aṅguttaraaṭṭhakathā-5(pañca，cha，sattaka)|447|
+|Item|value|
+|-|-|
+|Book Id| attha-076 |
+| Title| aṅguttara aṭṭhakathā-5(pañca，cha，sattaka) |
+|      | အင်္ဂုတ္တရအဋ္ဌကထာ(ပဉ္စ，ဆ，သတ္တက)(မ)|
+|Page number| 447 |
+| Online | [Read&download](https://drive.google.com/file/d/1WX8FxNciQSL_0OsOjJcYZj5gkzSHsyks/view?usp=sharing)|
+|Link|[read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=101&par=6&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0) |
+|Link|[edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=101&par=6&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=101&from=6&to=985&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=447) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=101&from=6&to=985&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=447)|
+
+### [a-077]အင်္ဂုတ္တရအဋ္ဌကထာ(အဋ္ဌကာဒိ)(ဆ)|aṅguttaraaṭṭhakathā-6(aṭṭhakādi)|393|
+|Item|value|
+|-|-|
+|Book Id| attha-077 |
+| Title| aṅguttara aṭṭhakathā-6(aṭṭhakādi) |
+|      | အင်္ဂုတ္တရအဋ္ဌကထာ(အဋ္ဌကာဒိ)(ဆ)|
+|Page number| 393 |
+| Online | [Read&download](https://drive.google.com/file/d/1isTUS6XeZ5ObuPvPR5BL2jyXkDKS8NQk/view?usp=sharing)|
+|Link|[read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=102&par=6&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0) |
+|Link|[edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=102&par=6&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=102&from=6&to=796&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=393) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=102&from=6&to=796&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=393)|
+
+
+### [a-078]ခုဒ္ဒကပါဌအဋ္ဌကထာ|khuddakapāṭha aṭṭhakathā|556|
+|Item|value|
+|-|-|
+|Book Id| attha-078 |
+| Title| khuddakapāṭha aṭṭhakathā |
+|      | ခုဒ္ဒကပါဌအဋ္ဌကထာ|
+|Page number| 556 |
+| Online | [Read&download](https://drive.google.com/file/d/1saVkoOJBf_jUQcMRbDXbJQ5tHTbYh_10/view?usp=sharing)|
+|Link|[read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=116&par=4&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0) |
+|Link|[edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=116&par=4&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=116&from=4&to=1235&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=556) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=116&from=4&to=1235&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=556)|
+
+### [a-079]ဓမ္မပဒအဋ္ဌကထာ(ပ)|dhammapada aṭṭhakathā-1|499|
+|Item|value|
+|-|-|
+|Book Id| attha-079 |
+| Title| dhammapada aṭṭhakathā-1 |
+|      | ဓမ္မပဒအဋ္ဌကထာ(ပ)|
+|Page number| 499 |
+| Online | [Read&download](https://drive.google.com/file/d/1En6K-FBjJdMtg3mXjOOJzuU_bceNmjiE/view?usp=sharing)|
+|Link|[read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=122&par=5&channal=ceb1345f-05b7-4c73-ba52-3677e5a8d2ac) |
+|Link|[edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=122&par=5&channal=ceb1345f-05b7-4c73-ba52-3677e5a8d2ac&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=122&from=5&to=849&channel=ceb1345f-05b7-4c73-ba52-3677e5a8d2ac&pages=499) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=122&from=5&to=849&channel=ceb1345f-05b7-4c73-ba52-3677e5a8d2ac&pages=499)|
+
+### [a-080]ဓမ္မပဒအဋ္ဌကထာ(ဒု)|dhammapada aṭṭhakathā-2|630|
+|Item|value|
+|-|-|
+|Book Id| attha-080 |
+| Title| dhammapada aṭṭhakathā-2 |
+|      | ဓမ္မပဒအဋ္ဌကထာ(ဒု)|
+|Page number| 630 |
+| Online | [Read&download](https://drive.google.com/file/d/10clBNY09vCzJmjHF6NdCAFX6L9FGH1d2/view?usp=sharing)|
+|Link|[read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=122&par=851&channal=ceb1345f-05b7-4c73-ba52-3677e5a8d2ac) |
+|Link|[edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=122&par=851&channal=ceb1345f-05b7-4c73-ba52-3677e5a8d2ac&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=122&from=851&to=2058&channel=ceb1345f-05b7-4c73-ba52-3677e5a8d2ac&pages=630) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=122&from=851&to=2058&channel=ceb1345f-05b7-4c73-ba52-3677e5a8d2ac&pages=630)|
+
+### [a-082]ဓမ္မပဒအဋ္ဌကထာ(တ)|dhammapada aṭṭhakathā(du)-vol3|646|
+|Item|value|
+|-|-|
+|Book Id| attha-082 |
+| Title| dhammapada aṭṭhakathā-vol3 |
+|      | ဓမ္မပဒအဋ္ဌကထာ(တ)|
+|Page number| 646 |
+| Online | [Read&download](https://drive.google.com/file/d/1sIWYEBLWGfXa21cb2_EWgwPf7D7-LuDA/view?usp=sharing)|
+|Link|[read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=122&par=2064&channal=a5c8e52c-9028-43d5-b0e1-6596681af41a) |
+|Link|[edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=122&par=2064&channal=a5c8e52c-9028-43d5-b0e1-6596681af41a&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=122&from=2064&to=3547&channel=a5c8e52c-9028-43d5-b0e1-6596681af41a&pages=646) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=122&from=2064&to=3547&channel=a5c8e52c-9028-43d5-b0e1-6596681af41a&pages=646)|
+
+
+
+### [a-083]ဓမ္မပဒအဋ္ဌကထာ(စ)|dhammapada aṭṭhakathā(du)-vol4|521|
+|Item|value|
+|-|-|
+|Book Id| attha-083 |
+| Title| dhammapada aṭṭhakathā(du)-vol4 |
+|      | ဓမ္မပဒအဋ္ဌကထာ(စ)|
+|Page number| 521 |
+| Online | [Read&download](https://drive.google.com/file/d/1d-VBEsz7jMkJcGT-PKxt5IdpZtGgYG7k/view?usp=sharing)|
+|Link|[read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=122&par=3549&channal=a5c8e52c-9028-43d5-b0e1-6596681af41a) |
+|Link|[edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=122&par=3549&channal=a5c8e52c-9028-43d5-b0e1-6596681af41a&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=122&from=3549&to=5231&channel=a5c8e52c-9028-43d5-b0e1-6596681af41a&pages=521) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=122&from=3549&to=5231&channel=a5c8e52c-9028-43d5-b0e1-6596681af41a&pages=521)|
+
 
 ### [a-095]ထေရဂါထာ အဋ္ဌကထာ(တ)|theragāthā aṭṭhakathā(3)|583|
 |Item|value|
