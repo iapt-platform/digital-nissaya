@@ -31,7 +31,6 @@
 026- kaṅkhāvitaraṇīaṭṭhakathānisya
 027- kaṅkhāvitaraṇīaṭṭhakathānisya (recakriu-1)
 028- kaṅkhāvitaraṇīaṭṭhakathānisya (recakriu-2)
-
 029- kaṅkhāvitaraṇīaṭṭhakathā (bhāsāṭīkā) (pa)
 030- kaṅkhāvitaraṇīaṭṭhakathā (bhāsāṭīkā) (du)
 
@@ -153,7 +152,6 @@
 124- visuddhimaganisya (sāsanāre-ta)
 125- visuddhimaganisya (sāsanāre-ca)
 126- visuddhimaganisya (sāsanāre-ma)
-
 127- visuddhimagaaṭṭhakathānisya (pa)
 128- visuddhimagaaṭṭhakathānisya (du)
 129- visuddhimagaaṭṭhakathānisya (ta)
@@ -176,15 +174,15 @@
 
 144- puggalapaññataaṭṭhakathā bhāsāṭīkā
 
-145- kathāvatthuaṭṭhakathā bhāsāṭīkā (pa)
-146- kathāvatthuaṭṭhakathā bhāsāṭīkā (du)
+145- kathāvatthu-aṭṭhakathā bhāsāṭīkā (pa)
+146- kathāvatthu-aṭṭhakathā bhāsāṭīkā (du)
 
-147- yamakaaṭṭhakathā bhāsāṭīkā
+147- yamaka-aṭṭhakathā bhāsāṭīkā
 
-148- paṭṭhāna”aṭṭhakathā bhāsāṭīkā
+148- paṭṭhāna-aṭṭhakathā bhāsāṭīkā
 
-149- pañcapakriuṇaaṭṭhakathānisya (pa)
-150- pañcapakriuṇaaṭṭhakathānisya (du)
-152- pañcapakriuṇaaṭṭhakathānisya (ta)
+149- pañcapakriuṇa-aṭṭhakathānisya (pa)
+150- pañcapakriuṇa-aṭṭhakathānisya (du)
+152- pañcapakriuṇa-aṭṭhakathānisya (ta)
 
-153- saccasaṅkhepaaṭṭhakathānissaya
+153- saccasaṅkhepa-aṭṭhakathā-nissaya

@@ -1074,6 +1074,315 @@
 
 ## Aṭṭhakatha
 
+### [a-001]ပါရာဇိကကဏ္ဍအဋ္ဌကထာ နိဿယ(1) | pārājikakaṇḍaaṭṭhakathā nissaya(1)  |506|
+| Item | value |
+| - | - |
+| Book Id | a-001 |
+| Title | pārājikakaṇḍaaṭṭhakathā nissaya(1) |
+| Title | |
+| PDF Page number | 506 |
+| PDF Link | [Online](https://drive.google.com/file/d/1VBGcay4TpqbkVGhwbCtUsvI-YnMCp5yB/view?usp=sharing) |
+| Link |     [For Read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=138&par=4&channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3) |
+|      |     [For Edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=138&par=4&channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=138&from=4&to=489&channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3&pages=506) |
+|     |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=138&from=4&to=489&channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3&pages=506)|
+
+### [a-002]ပါရာဇိကကဏ္ဍအဋ္ဌကထာ နိဿယ(2) | pārājikakaṇḍa-aṭṭhakathā nissaya(2)  |506|
+| Item | value |
+| - | - |
+| Book Id | a-002 |
+| Title | pārājikakaṇḍaaṭṭhakathā nissaya(1) |
+| Title | |
+| PDF Page number | 506 |
+| PDF Link | [Online](https://drive.google.com/file/d/1S3oek6KwvKD4AzXlQjh1pr3G6SZMrgiZ/view?usp=sharing) |
+| Link |     [For Read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=138&par=490&channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3) |
+|      |     [For Edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=138&par=490&channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=138&from=490&to=864&channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3&pages=506) |
+|     |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=138&from=490&to=864&channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3&pages=506)|
+
+### [a-009]ပါရာဇိကကဏ္ဍအဋ္ဌကထာ နိဿယ(3) | pārājikakaṇḍa-aṭṭhakathā nissaya(3)  |560|
+| Item | value |
+| - | - |
+| Book Id | a-009 |
+| Title | pārājikakaṇḍaaṭṭhakathā nissaya(3) |
+| Title | |
+| PDF Page number | 506 |
+| PDF Link | [Online](https://drive.google.com/file/d/1GL98UJ3mmCNhy4b4Pefqz6wp-isHRODv/view?usp=sharing) |
+| Link |     [For Read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=138&par=865&channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3) |
+|      |     [For Edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=138&par=865&channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=138&from=865&to=1623&channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3&pages=560) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=138&from=865&to=1623&channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3&pages=560)|
+
+### [a-010]ပါရာဇိကကဏ္ဍအဋ္ဌကထာ နိဿယ(3) | pārājikakaṇḍa-aṭṭhakathā nissaya(3)  |856|
+| Item | value |
+| - | - |
+| Book Id | a-010 |
+| Title | pārājikakaṇḍaaṭṭhakathā nissaya(3) |
+| Title | |
+| PDF Page number | 506 |
+| PDF Link | [Online](https://drive.google.com/file/d/118d8lR_0b6RK082vdpSnzRuQCcjcr5sj/view?usp=sharing) |
+| Link |     [For Read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=138&par=1627&channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3) |
+|      |     [For Edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=138&par=1627&channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=138&from=1627&to=2974&channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3&pages=856) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=138&from=1627&to=2974&channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3&pages=856)|
+
+
+### [a-018]မဟာဝါ အဋ္ဌကထာ နိဿယ|mahāvā aṭṭhakathā nissaya|451|
+| Item | value |
+| - | - |
+| Book Id | a-018 |
+| Title | mahāvā aṭṭhakathā nissaya |
+| Title | မဟာဝါ အဋ္ဌကထာ နိဿယ |
+| PDF Page number | 451 |
+| PDF Link | [Online](https://drive.google.com/file/d/1os1oOolWdWVk40WjOjViX7kbpMDdkNba/view?usp=sharing) |
+| Link |     [For Read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=140&par=5&channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3) |
+|      |     [For Edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=140&par=5&channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=140&from=5&to=923&channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3&pages=451) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=140&from=5&to=923&channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3&pages=451)|
+
+
+### [a-027]ကင်္ခါဝိတရဏီ အဋ္ဌကထာ(1)|kaṅkhāvitaraṇī aṭṭhakathā-1|542|
+|Item|value|
+|-|-|
+|Book Id| attha-027 |
+| Title | kaṅkhāvitaraṇī aṭṭhakathā-1 |
+|       | ကင်္ခါဝိတရဏီ အဋ္ဌကထာ(1) |
+| PDF Page number| 542 |
+| PDF | [Open](https://drive.google.com/file/d/13CG1BewwfIPNjCnuGrolFKsmZ2A5EfyS/view?usp=sharing)|
+|Link|[For Read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=207&par=1216&channal=becd9f3c-ea89-4aff-b1a8-3638108fcbc3) |
+|Link|[For Edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=207&par=1216&channal=becd9f3c-ea89-4aff-b1a8-3638108fcbc3&display=sent&mode=edit&direction=row)|
+|Progress|![56](https://www-hk.wikipali.org/api/sentence/progress/image?channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3&&book=207&from=1216&to=1434&pages=542&view=page)|
+||![56](https://www-hk.wikipali.org/api/sentence/progress/daily/image?channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3&&book=207&from=1216&to=1434&pages=542&view=page)|
+
+
+
+### [a-028]ကင်္ခါဝိတရဏီ အဋ္ဌကထာ(2)|kaṅkhāvitaraṇī aṭṭhakathā-2|619|
+|Item|value|
+|-|-|
+|Book Id| attha-028 |
+| Title | kaṅkhāvitaraṇī aṭṭhakathā-2 |
+|       | ကင်္ခါဝိတရဏီ အဋ္ဌကထာ(2) |
+| PDF Page number| 619 |
+| PDF | [Open](https://drive.google.com/file/d/18lmFFbVF37BTowdegYfV5ypCC6rWLatX/view?usp=sharing)|
+|Link|[For Read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=207&par=1436&channal=becd9f3c-ea89-4aff-b1a8-3638108fcbc3) |
+|Link|[For Edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=207&par=1436&channal=becd9f3c-ea89-4aff-b1a8-3638108fcbc3&display=sent&mode=edit&direction=row)|
+|Progress|![56](https://www-hk.wikipali.org/api/sentence/progress/image?channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3&&book=207&from=1436&to=2713&pages=542&view=page)|
+||![56](https://www-hk.wikipali.org/api/sentence/progress/daily/image?channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3&&book=207&from=1436&to=2713&pages=542&view=page)|
+
+### [a-031]ဝိနယသင်္ဂဟအဋ္ဌကထာ(ပ)|vinayasaṅgaha aṭṭhakathā -1 | 552|
+| Item | value |
+| - | - |
+| Book Id | a-031 |
+| Title | vinayasaṅgaha aṭṭhakathā -1 |
+| Title | ဝိနယသင်္ဂဟအဋ္ဌကထာ(ပ) |
+| PDF Page number | 552 |
+| PDF Link | [Online](https://drive.google.com/file/d/1fC7K2XCrC5GOQMHnesUG58reAgfJ4OY3/view?usp=sharing) |
+| Link |     [For Read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=208&par=4&channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3) |
+|      |     [For Edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=208&par=4&channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=208&from=4&to=614&channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3&pages=552) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=208&from=4&to=614&channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3&pages=552)|
+
+### [a-032]ဝိနယသင်္ဂဟအဋ္ဌကထာ(ဒု)|vinayasaṅgaha aṭṭhakathā-2 | 538|
+| Item | value |
+| - | - |
+| Book Id | a-032 |
+| Title | vinayasaṅgaha aṭṭhakathā-2 |
+| Title | ဝိနယသင်္ဂဟအဋ္ဌကထာ(ဒု) |
+| PDF Page number | 538 |
+| PDF Link | [Online](https://drive.google.com/file/d/126EqjXZhHi9dYgjN4WeGKyo1Eor4C34k/view?usp=sharing) |
+| Link |     [For Read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=208&par=615&channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3) |
+|      |     [For Edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=208&par=615&channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=208&from=615&to=1673&channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3&pages=538) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=208&from=615&to=1673&channel=becd9f3c-ea89-4aff-b1a8-3638108fcbc3&pages=538)|
+
+
+### [a-058]မူလပဏ္ဏာသအဋ္ဌကထာ(ပ)|mūlapaṇṇāsaaṭṭhakathā-1|650| 
+|Item|value|
+|-|-|
+|Book Id| attha-058 |
+|Pali Title| mūlapaṇṇāsaaṭṭhakathā(pa) မူလပဏ္ဏာသအဋ္ဌကထာ(ပ)|
+|Nissaya Title| mūlapaṇṇāsaaṭṭhakathā(pa) မူလပဏ္ဏာသအဋ္ဌကထာ(ပ)|
+|Page number| 650 |
+| Online | [Read&download](https://drive.google.com/file/d/14GrCQnEgK2t5piSWcNI4so9pA3hhmsB7/view?usp=sharing)|
+|Link|[read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=130&par=6&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0) |
+|Link|[edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=130&par=6&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=130&from=6&to=1082&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=650) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=130&from=6&to=1082&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=650)|
+
+### [a-059]မူလပဏ္ဏာသအဋ္ဌကထာ(ဒု)|mūlapaṇṇāsaaṭṭhakathā-2|640|
+|Item|value|
+|-|-|
+|Book Id| attha-059 |
+|Pali Title| mūlapaṇṇāsaaṭṭhakathā(pa) မူလပဏ္ဏာသအဋ္ဌကထာ(ပ)|
+|Nissaya Title| mūlapaṇṇāsaaṭṭhakathā(pa) မူလပဏ္ဏာသအဋ္ဌကထာ(ပ)|
+|Page number| 640 |
+| Online | [Read&download](https://drive.google.com/file/d/17gHwM5BAfiFwlyUvkXRjstftKsUXClNp/view?usp=sharing)|
+|Link|[read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=130&par=1083&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0) |
+|Link|[edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=130&par=1083&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=130&from=1083&to=2075&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=640) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=130&from=1083&to=2075&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=640)|
+
+
+### [a-060]မူလပဏ္ဏာသအဋ္ဌကထာ(တ)|mūlapaṇṇāsaaṭṭhakathā (3)|657|
+|Item|value|
+|-|-|
+|Book Id| attha-060 |
+| Title| mūlapaṇṇāsaaṭṭhakathā(3) |
+|      | မူလပဏ္ဏာသအဋ္ဌကထာ(တ)|
+|Page number| 657 |
+| Online | [Read&download](https://drive.google.com/file/d/1Zns7EzsUEq3SPC9Nong74a5BJWMeHS3k/view?usp=sharing)|
+|Link|[read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=130&par=2076&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0) |
+|Link|[edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=130&par=2076&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=130&from=2076&to=2912&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=657) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=130&from=2076&to=2912&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=657)|
+
+### [a-061]မဇ္ဈိမပဏ္ဏာသအဋ္ဌကထာ(ပ)|majjhimapaṇṇāsa-aṭṭhakathā-1|428| 
+|Item|value|
+|-|-|
+|Book Id| attha-061 |
+| Title| majjhimapaṇṇāsa-aṭṭhakathā-1 |
+|      | မဇ္ဈိမပဏ္ဏာသအဋ္ဌကထာ(ပ)|
+|Page number| 428 |
+| Online | [Read&download](https://drive.google.com/file/d/1T8bQbevjgzsIkB671xbZ-_vu3ipwTAJQ/view?usp=sharing)|
+|Link|[read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=131&par=5&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0) |
+|Link|[edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=131&par=5&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=131&from=5&to=699&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=428) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=131&from=5&to=699&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=428)|
+
+### [a-062]မဇ္ဈိမပဏ္ဏာသအဋ္ဌကထာ(ဒု)|majjhimapaṇṇāsa-aṭṭhakathā-2|432| 
+|Item|value|
+|-|-|
+|Book Id| attha-062 |
+| Title| majjhimapaṇṇāsa-aṭṭhakathā-2 |
+|      | မဇ္ဈိမပဏ္ဏာသအဋ္ဌကထာ(ဒု)|
+|Page number| 432 |
+| Online | [Read&download](https://drive.google.com/file/d/1T8bQbevjgzsIkB671xbZ-_vu3ipwTAJQ/view?usp=sharing)|
+|Link|[read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=131&par=700&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0) |
+|Link|[edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=131&par=700&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=131&from=700&to=1339&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=432) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=131&from=700&to=1339&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=432)|
+
+
+### [a-065]သံယုတ္တအဋ္ဌကထာ(သဂါထာဝဂ္ဂ)(ပ)|saṃyuttaaṭṭhakathā(sagāthāvagga)-1|438|
+|Item|value|
+|-|-|
+|Book Id| attha-065 |
+| Title| saṃyuttaaṭṭhakathā(sagāthāvagga)-1 |
+|      | သံယုတ္တအဋ္ဌကထာ(သဂါထာဝဂ္ဂ)(ပ)|
+|Page number| 438 |
+| Online | [Read&download](https://drive.google.com/file/d/1T8bQbevjgzsIkB671xbZ-_vu3ipwTAJQ/view?usp=sharing)|
+|Link|[read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=133&par=5&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0) |
+|Link|[edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=133&par=5&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=133&from=5&to=868&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=438) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=133&from=5&to=868&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=438)|
+
+### [a-066]သံယုတ္တအဋ္ဌကထာ(သဂါထာဝဂ္ဂ)(ဒု)|saṃyuttaaṭṭhakathā(sagāthāvagga)-2|377|
+|Item|value|
+|-|-|
+|Book Id| attha-066 |
+| Title| saṃyuttaaṭṭhakathā(sagāthāvagga)-2 |
+|      | သံယုတ္တအဋ္ဌကထာ(သဂါထာဝဂ္ဂ)(ဒု)|
+|Page number| 377 |
+| Online | [Read&download](https://drive.google.com/file/d/1T8bQbevjgzsIkB671xbZ-_vu3ipwTAJQ/view?usp=sharing)|
+|Link|[read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=133&par=870&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0) |
+|Link|[edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=133&par=870&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=133&from=870&to=1478&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=377) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=133&from=870&to=1478&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=377)|
+
+### [a-067]သံယုတ္တအဋ္ဌကထာ(နိဒါနဝဂ္ဂဂ)(ပ)|saṃyuttaaṭṭhakathā(nidānavagga)-1|336|
+|Item|value|
+|-|-|
+|Book Id| attha-067 |
+| Title| saṃyuttaaṭṭhakathā(nidānavagga)-1 |
+|      | သံယုတ္တအဋ္ဌကထာ(နိဒါနဝဂ္ဂဂ)(ပ)|
+|Page number| 336 |
+| Online | [Read&download](https://drive.google.com/file/d/1T8bQbevjgzsIkB671xbZ-_vu3ipwTAJQ/view?usp=sharing)|
+|Link|[read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=134&par=6&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0) |
+|Link|[edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=134&par=6&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=134&from=6&to=475&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=336) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=134&from=6&to=475&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=336)|
+
+### [a-068]သံယုတ္တအဋ္ဌကထာ(နိဒါနဝဂ္ဂဂ)(ဒု)|saṃyuttaaṭṭhakathā(nidānavagga)-2|271|
+|Item|value|
+|-|-|
+|Book Id| attha-068 |
+| Title| saṃyuttaaṭṭhakathā(nidānavagga)-2 |
+|      | သံယုတ္တအဋ္ဌကထာ(နိဒါနဝဂ္ဂဂ)(ဒု)|
+|Page number| 336 |
+| Online | [Read&download](https://drive.google.com/file/d/1T8bQbevjgzsIkB671xbZ-_vu3ipwTAJQ/view?usp=sharing)|
+|Link|[read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=134&par=477&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0) |
+|Link|[edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=134&par=477&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=134&from=477&to=978&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=271) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=134&from=477&to=978&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=271)|
+
+### [a-069]ခန္ဓဝဂ္ဂ(သဂါထာဝဂ္ဂ)|saṃyuttaaṭṭhakathā(khandhavagga)|260|
+|Item|value|
+|-|-|
+|Book Id| attha-068 |
+| Title| saṃyuttaaṭṭhakathā(khandhavagga) |
+|      | ခန္ဓဝဂ္ဂ(သဂါထာဝဂ္ဂ)|
+|Page number| 260 |
+| Online | [Read&download](https://drive.google.com/file/d/1T8bQbevjgzsIkB671xbZ-_vu3ipwTAJQ/view?usp=sharing)|
+|Link|[read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=135&par=6&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0) |
+|Link|[edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=135&par=6&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=135&from=6&to=491&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=260) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=135&from=6&to=491&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=260)|
+
+### [a-070]သဠာယတနဝဂ္ဂ(သဂါထာဝဂ္ဂ)|saṃyutta-aṭṭhakathā(saḷāyatanavagga)|381|
+|Item|value|
+|-|-|
+|Book Id| attha-068 |
+| Title| saṃyuttaaṭṭhakathā(saḷāyatanavagga) |
+|      | ခန္ဓဝဂ္ဂ(သဂါထာဝဂ္ဂ)|
+|Page number| 381 |
+| Online | [Read&download](https://drive.google.com/file/d/1T8bQbevjgzsIkB671xbZ-_vu3ipwTAJQ/view?usp=sharing)|
+|Link|[read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=136&par=6&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0) |
+|Link|[edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=136&par=6&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=136&from=6&to=799&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=381) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=136&from=6&to=799&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=381)|
+
+### [a-071]သံယုတ္တအဋ္ဌကထာ(မဟာဝဂ္ဂဂ)|saṃyutta-aṭṭhakathā(mahāvagga)|487|
+|Item|value|
+|-|-|
+|Book Id| attha-071 |
+| Title| saṃyuttaaṭṭhakathā(mahāvagga) |
+|      | ခန္ဓဝဂ္ဂ(မဟာဝဂ္ဂဂ)|
+|Page number| 487 |
+| Online | [Read&download](https://drive.google.com/file/d/1T8bQbevjgzsIkB671xbZ-_vu3ipwTAJQ/view?usp=sharing)|
+|Link|[read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=137&par=6&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0) |
+|Link|[edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=137&par=6&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=137&from=6&to=1016&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=381) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=137&from=6&to=1016&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=381)|
+
+### [a-095]ထေရဂါထာ အဋ္ဌကထာ(တ)|theragāthā aṭṭhakathā(3)|583|
+|Item|value|
+|-|-|
+|Book Id| attha-095 |
+| Title| theragāthā aṭṭhakathā(3) |
+|      | ထေရဂါထာ အဋ္ဌကထာ(တ)|
+|Page number| 583 |
+| Online | [Read&download](https://drive.google.com/file/d/1T8bQbevjgzsIkB671xbZ-_vu3ipwTAJQ/view?usp=sharing)|
+|Link|[read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=129&par=6&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0) |
+|Link|[edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=129&par=6&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=129&from=6&to=3132&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=583) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=129&from=6&to=3132&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=583)|
+
+### [a-096]theragāthā aṭṭhakathā(4)|ထေရဂါထာ အဋ္ဌကထာ(စ)|647|
+|Item|value|
+|-|-|
+|Book Id| attha-096 |
+| Title| theragāthā aṭṭhakathā(4) |
+|      | ထေရဂါထာ အဋ္ဌကထာ(စ)|
+|Page number| 647 |
+| Online | [Read&download](https://drive.google.com/file/d/1T8bQbevjgzsIkB671xbZ-_vu3ipwTAJQ/view?usp=sharing)|
+|Link|[read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=129&par=3134&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0) |
+|Link|[edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=129&par=3134&channal=a63d2257-29a9-4467-9f87-4b7d8995f6b0&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=129&from=3134&to=6607&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=647) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=129&from=3134&to=6607&channel=a63d2257-29a9-4467-9f87-4b7d8995f6b0&pages=647)|
+
+
+
+
 ### [a-098]ဇာတကအဋ္ဌကထာ(6) နိဿယ | jātakaaṭṭhakathā(6) nissaya  |112|
 | Item | value |
 | - | - |
@@ -1595,3 +1904,151 @@
 |   | ![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=174&from=1060&to=1487&channel=1bff124a-1d29-419a-a3f3-08c8d06609d4&pagelen=1900)|
 
 
+### [t-036]ကင်္ခါဝိတရဏီပုရာဏဋီကာ  နိဿယ | kaṅkhāvitaraṇīpurāṇaṭīkā nissaya |426|
+| Item | value |
+| - | - |
+| Book Id | a-010 |
+| Title | kaṅkhāvitaraṇīpurāṇaṭīkā nissaya |
+|  | ကင်္ခါဝိတရဏီပုရာဏဋီကာ  နိဿယ|
+| PDF Page number | 426 |
+| PDF Link |  |
+| Link |     [For Read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=212&par=3&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5) |
+|      |     [For Edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=212&par=3&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=212&from=3&to=669&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&pages=856) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=212&from=3&to=669&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&pages=856)|
+
+
+### [t-037]သာရတ္ထဒီပနီဋီကာနိဿယ(၁)|sāratthadīpanīṭīkā nissaya-1|915|
+| Item | value |
+| - | - |
+| Book Id | t-037 |
+| Title | sāratthadīpanīṭīkā nissaya-1 |
+|       | သာရတ္ထဒီပနီဋီကာနိဿယ(၁)|
+| PDF Page number | 915 |
+| PDF Link | [Online](https://drive.google.com/file/d/11-TVuOMEeRPbH5EH8CBk0WfbKA4Ex_lm/view?usp=sharing) |
+| Link |     [For Read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=204&par=4&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5) |
+|      |     [For Edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=204&par=4&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=204&from=4&to=1659&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&pages=915) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=204&from=4&to=1659&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&pages=915)|
+
+
+### [t-038]သာရတ္ထဒီပနီဋီကာနိဿယ(၂)|sāratthadīpanīṭīkā nissaya-2|915|
+| Item | value |
+| - | - |
+| Book Id | t-038 |
+| Title | sāratthadīpanīṭīkā nissaya-2 |
+|       | သာရတ္ထဒီပနီဋီကာနိဿယ(၂)|
+| PDF Page number | 915 |
+| PDF Link | [Online](https://drive.google.com/file/d/13dIrHVAe0ollGz91AlNjOjZRMOxUv6eX/view?usp=sharing) |
+| Link |     [For Read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=205&par=6&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5) |
+|      |     [For Edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=205&par=6&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=205&from=6&to=1660&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&pages=915) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=205&from=6&to=1660&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&pages=915)|
+
+
+
+### [t-039]သာရတ္ထဒီပနီဋီကာနိဿယ(၃)|sāratthadīpanīṭīkā nissaya-3|915|
+| Item | value |
+| - | - |
+| Book Id | t-039 |
+| Title | sāratthadīpanīṭīkā nissaya-3 |
+|       | သာရတ္ထဒီပနီဋီကာနိဿယ(၃)|
+| PDF Page number | 915 |
+| PDF Link | [Online](https://drive.google.com/file/d/1s4gCotUKTD_29T1NISQQTeF1iVft9aQh/view?usp=sharing) |
+| Link |     [For Read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=206&par=6&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5) |
+|      |     [For Edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=206&par=6&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=206&from=6&to=2401&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&pages=915) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=206&from=6&to=2401&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&pages=915)|
+
+### [t-040]အဘိဓမ္မတ္ထဝိဘာဝိနီဋီကာ နိဿယ|abhidhammattha-vibhāvinīṭīkā-nissaya|653|
+| Item | value |
+| - | - |
+| Book Id | t-040 |
+| Title | abhidhammattha-vibhāvinīṭīkā-nissaya |
+|       | အဘိဓမ္မတ္ထဝိဘာဝိနီဋီကာ နိဿယ|
+| PDF Page number | 653 |
+| PDF Link | [Online](https://drive.google.com/file/d/1eHw_ej6vhZ0rjBB5a90Fk217oRIqQhSx/view?usp=sharing) |
+| Link |     [For Read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=178&par=876&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5) |
+|      |     [For Edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=178&par=876&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=178&from=876&to=1838&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&pages=915) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=178&from=876&to=1838&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&pages=915)|
+
+### [t-043]တေလကဋာဟဂါထာဘာသာနိဿယ|telakaṭāhagāthā-bhāsā-nissaya|
+| Item | value |
+| - | - |
+| Book Id | t-043 |
+| Title | telakaṭāhagāthā-bhāsā-nissaya |
+|       | တေလကဋာဟဂါထာဘာသာနိဿယ|
+| PDF Page number |  |
+| PDF Link | [Online](https://drive.google.com/file/d/1jzaxiScuMkuiyIDoFo7GZpc_rfFBjLe2/view?usp=sharing) |
+| Link |     [For Read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=60&par=3&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5) |
+|      |     [For Edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=60&par=3&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=60&from=3&to=501&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&pages=915) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=60&from=3&to=501&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&pages=915)|
+
+
+### [t-044]-နမက္ကာရဋီကာနိဿယ-namakkāraṭīkā-nissaya|
+| Item | value |
+| - | - |
+| Book Id | t-044 |
+| Title | telakaṭāhagāthā-bhāsā-nissaya |
+|       | တေလကဋာဟဂါထာဘာသာနိဿယ|
+| PDF Page number |  |
+| PDF Link | [Online](https://drive.google.com/file/d/1EEvLn90RE9Vp_RPBzIO42vP0Ice-YmJA/view?usp=sharing) |
+| Link |     [For Read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=1&par=159&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5) |
+|      |     [For Edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=1&par=159&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=1&from=159&to=981&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&pages=915) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=1&from=159&to=981&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&pages=915)|
+
+### [t-045]ခုဒ္ဒသိက္ခာ-မူလသိက္ခာနိဿယ|khuddasikkhā-mūlasikkhā-nissaya|
+| Item | value |
+| - | - |
+| Book Id | t-045 |
+| Title | khuddasikkhā nissaya |
+|       | ခုဒ္ဒသိက္ခာ နိဿယ|
+| PDF Page number |  |
+| PDF Link | [Online](https://drive.google.com/file/d/1VR6kFRq4Y9k81BQcdqVzNxKaysz3CB54/view?usp=sharing) |
+| Link |     [For Read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=203&par=4&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5) |
+|      |     [For Edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=203&par=4&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=203&from=4&to=1618&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&pages=915) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=203&from=4&to=1618&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&pages=915)|
+
+| Item | value |
+| - | - |
+| Book Id | t-045 |
+| Title | mūlasikkhā-nissaya |
+|       | မူလသိက္ခာနိဿယ|
+| PDF Page number |  |
+| PDF Link | [Online](https://drive.google.com/file/d/1VR6kFRq4Y9k81BQcdqVzNxKaysz3CB54/view?usp=sharing) |
+| Link |     [For Read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=203&par=3100&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5) |
+|      |     [For Edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=203&par=3100&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=203&from=3100&to=3479&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&pages=915) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=203&from=3100&to=3479&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&pages=915)|
+
+
+### [t-046]Paramatthadipani nissaya(1)|547|
+| Item | value |
+| - | - |
+| Book Id | t-046 |
+| Title | Paramatthadipani nissaya(1) |
+|       |  |
+| PDF Page number | 547 |
+| PDF Link | [Online](https://drive.google.com/file/d/1nD74vlOnlJ_Evx4pvTBxpqtu-9U27EVE/view?usp=sharing) |
+| Link |     [For Read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=23&par=4&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5) |
+|      |     [For Edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=23&par=4&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=23&from=4&to=986&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&pages=547) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=23&from=4&to=986&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&pages=547)|
+
+
+### [t-047]Paramatthadipani nissaya(2)|390|
+| Item | value |
+| - | - |
+| Book Id | t-047 |
+| Title | Paramatthadipani nissaya(2) |
+|       |  |
+| PDF Page number | 390 |
+| PDF Link |  |
+| Link |     [For Read](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=23&par=987&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5) |
+|      |     [For Edit](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=23&par=987&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
+| Progress | ![page](https://www-hk.wikipali.org/api/sentence/progress/image?view=page&book=23&from=987&to=1498&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&pages=390) |
+|    |![daily](https://www-hk.wikipali.org/api/sentence/progress/daily/image?view=page&book=23&from=987&to=1498&channel=a73e1d78-9666-4cb2-b909-f235aa3362e5&pages=390)|
