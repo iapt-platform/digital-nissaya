@@ -41,9 +41,9 @@
 
 扫描版PDF
 
-- [根本Nissaya](mula.md)
-- [义注Nissaya](attha.md)
-- [复註Nissaya](tika.md)
+- [根本Nissaya](https://github.com/orgs/iapt-platform/projects/6/views/9?filterQuery=label%3A%22m%C5%ABla%22+label%3Apdf)
+- [义注Nissaya](https://github.com/orgs/iapt-platform/projects/6/views/10?filterQuery=label%3A%22m%C5%ABla%22+label%3Apdf)
+- [复註Nissaya](https://github.com/orgs/iapt-platform/projects/6/views/11?filterQuery=label%3A%22m%C5%ABla%22+label%3Apdf)
 
 Unicode电子版
 
@@ -55,7 +55,7 @@ Unicode电子版
 - [暂缺需要补齐纸质书的](leaved.md)
 
 |类别|书籍数量|页数|
-|-|-|
+|-|-|-|
 |根本|148|29875|
 |义注|149|49189|
 |复注|42|11438|
