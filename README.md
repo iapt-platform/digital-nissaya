@@ -22,7 +22,7 @@
 - 提升公众及佛教研究者对这些缅文资料的了解和重视程度
 
 
-本项目是由国际巴利三藏学院（IAPT）提供资金支持并组织实施。我们也得到了Pa-Auk Dawei禅林和禅林住持U Kuṇḍadhāna 西亚多的大力协助。
+本项目是由国际巴利三藏学院（IAPT）组织实施。并由IAPT和快乐念住学习群提供资金支持。我们也得到了Pa-Auk Dawei禅林和禅林住持U Kuṇḍadhāna 西亚多的大力协助。
 
 
 ## Inspiration from Similar Projects
