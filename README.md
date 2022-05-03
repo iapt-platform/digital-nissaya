@@ -181,7 +181,7 @@ http://dhammadownload.com/
 
 ### Kabaaye Buddha Research Library
 
->**卡巴耶佛教研究图书馆**位于仰光 Mayangone 镇 Kaba Aye Hill Estate 的第六次圣典结集 Mahapasana Cave 以北。
+>**卡巴耶佛教研究图书馆**位于仰光 Mayangone 镇 Kaba Aye Hill Estate 的第六次圣典结集 Mahapasana Cave 以北。专为佛教研究建立的图书馆。馆藏2万多。亦将部分馆藏制作成了扫描版的电子书。可在官网下载。
 
 http://www.kbrl.gov.mm/Catalog/Featured
 
