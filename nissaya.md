@@ -96,9 +96,9 @@ nissaya 缅文语尾表
 
 ## 参考资料
 
-### 持三藏法库高僧演讲《》
+### 持三藏法库高僧演讲《緬甸巴利逐字翻譯的由來及概要》
 
-
+https://user.qzone.qq.com/1055151997/blog/1651376036
 
 ### visuddhinanda的google drive
 >PDF Nissaya下载 以Masoyin e-Libary为基础增补了其他网站的书籍
