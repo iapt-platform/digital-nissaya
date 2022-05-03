@@ -9,7 +9,7 @@
 
 ![app](images/sample.jpg)
 
->棕色线标出的为巴利语原文
+>棕色线标出的为巴利语单词。紧随其后的是缅文翻译。
 
 古代Nissaya被刻写在棕榈叶上。近现代出现了纸质版的Nissaya书籍。目前，电子版的Nissaya逐渐借助互联网广泛流通。也出现了手机的Nissaya App。
 
