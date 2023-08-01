@@ -92,7 +92,7 @@ attha_ku_13|cariyāpiṭaka aṭṭhakathā|1|**attha-097**|1|rhecharātoa|cariy
 attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|1|**attha-098**|2|dana’atiuငa|jātaka (6)22. Mahānipāto[538] 1. Mūgapakkhajātakavaṇṇanā|112|[blocking]|
 attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|39|**attha-099**|1|dana’atiuငa|jātaka (6)[539] 2. Mahājanakajātakavaṇṇanā|128|[blocking]|
 attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|85|**attha-100**|1|dana’atiuငa|jātaka (6)[540] 3. Suvaṇṇasāmajātakavaṇṇanā|95|[blocking]|
-attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|119|**attha-101**|1|dana’atiuငa|jātaka (6)[541] 4. Nimijātakavaṇṇanā|124|[blocking]|
+attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|119|**attha-101**|1|dana’atiuငa|jātaka (6)[541] 4. Nimijātakavaṇṇanā|124|[processing](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=115&par=1660&channal=df088075-0e67-42e6-b71f-ec052fed394c&display=sent&mode=edit&direction=col)|
 attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|163|**attha-102**|1|dana’atiuငa|jātaka (6)[542] 5. Umaṅgajātakavaṇṇanā-1|184|[processing](https://www-hk.wikipali.org/app/article/index.php?view=chapter&book=115&par=2333&channal=a73e1d78-9666-4cb2-b909-f235aa3362e5&display=sent&mode=edit&direction=col)|
 attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|223|**attha-103**|1|dana’atiuငa|jātaka (6)[542] 5. Umaṅgajātakavaṇṇanā-2|170|[blocking]|
 attha_ku_zat_06|jātakaaṭṭhakathā(chaṭṭha)|275|**attha-104**|1|dana’atiuငa|jātaka (6)[542] 5. Umaṅgajātakavaṇṇanā-3|175|[blocking]|
