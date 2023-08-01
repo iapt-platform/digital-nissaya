@@ -198,7 +198,7 @@ https://spsuygn.edu.mm/book/ref_sub/24?page=2
 
 > This archive, hosted by the University of Toronto and supported by Robarts Library, aims at bringing together and making manuscripts and rare print editions available online from individual libraries throughout Myanmar. It is the platform for an ongoing digitizing project, initiated and conducted by William Pruitt and an international team of Myanmar and Pali scholars, and supported, since 2012, by the Pali Text Society, as well as by Yumi Ousaka of the Sendai National College of Technology, the KDDI Foundation, the Mitsubishi Foundation, the CARI Foundation, and JSPS Kakenhi.
 
-> 数字化缅文书的项目。其中包含佛教的贝叶经的电子化版本（贝叶经照片）
+> 缅文手抄本数字化项目。其中包含佛教的贝叶经的电子化版本（贝叶经照片）
 
 https://mmdl.utoronto.ca/
 
